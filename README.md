@@ -36,4 +36,4 @@ Used for creating a executable file with a bundled-JVM using the JDK-bundled `ja
 
 
 ### Technical Documentation
-Documentation (javadocs) can be found inside javadocs or [here](javadoc/index.html)
+Documentation (javadocs) can be found inside javadocs 
