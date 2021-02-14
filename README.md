@@ -33,22 +33,7 @@ Used for creating a executable file with a bundled-JVM using the JDK-bundled `ja
 * Adobe Illustrator - used to customize and design application icons
 * HTML & CSS - used to create application help
 
-### Screenshots
-#### Main Window:
-![Main Window of BookKeeper](readme_assets/mainWindow.png)
 
-### Planning
-#### Database
-![Database Plan of BookKeeper](readme_assets/databasePlan.png)
-###### *[Vertabelo](https://www.vertabelo.com/) was used to aid the design of the database*
-The layout of the database is designed to encourage modularity, e.g. changes 
-in the patron table should be reflected in the book table automatically, without 
-knowledge of the specific patron entry.
-
-#### Layout
-![Mockup Images](readme_assets/mockup/MainWindow.png)
-###### *Balasmiq mockup was used to design wireframes and aid in planning*
-More planning images can be found [here](readme_assets/mockup). These planning documents were modified when I discovered a more elegant solution during development. 
 
 ### Technical Documentation
 Documentation (javadocs) can be found inside javadocs or [here](javadoc/index.html)
