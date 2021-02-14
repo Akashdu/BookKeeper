@@ -1,0 +1,11 @@
+#CatalogName HelpFile
+Frequently Asked Questions (FAQ) --- faq.html
+Navigating the File Menu --- file.html
+Navigating the Main Menu --- navigation.html
+Managing Patrons --- patrons.html
+Managing Patron Types --- types.html
+Managing Books --- books.html
+Viewing Transactions --- transactions.html
+Generating Reports --- reports.html
+Checkout and Return --- checkout.html
+Viewing Interactive Help --- interactive.html

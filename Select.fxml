@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<GridPane xmlns:fx="http://javafx.com/fxml/1" fx:id="rootPane" hgap="14.0" maxHeight="+Infinity" maxWidth="+Infinity"
+          minHeight="-Infinity" minWidth="-Infinity" vgap="20.0" xmlns="http://javafx.com/javafx/8.0.141">
+    <columnConstraints>
+        <ColumnConstraints hgrow="NEVER" maxWidth="-Infinity" minWidth="-Infinity"/>
+        <ColumnConstraints halignment="CENTER" hgrow="ALWAYS" maxWidth="+Infinity" minWidth="-Infinity"/>
+    </columnConstraints>
+    <padding>
+        <Insets bottom="14.0" right="14.0" top="14.0"/>
+    </padding>
+    <rowConstraints>
+        <RowConstraints maxHeight="+Infinity" minHeight="-Infinity" valignment="CENTER" vgrow="ALWAYS"/>
+        <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" vgrow="NEVER"/>
+    </rowConstraints>
+    <VBox maxHeight="+Infinity" maxWidth="+Infinity" minHeight="-Infinity" prefWidth="400.0" spacing="7.0"
+          GridPane.columnIndex="1" GridPane.rowIndex="0" GridPane.vgrow="ALWAYS">
+        <Label fx:id="label" text="Choose a Patron" wrapText="true">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <AnchorPane maxWidth="1.7976931348623157E308" prefWidth="200.0">
+            <TextField fx:id="filter" promptText="Filter" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"/>
+            <Text fill="#868686" strokeType="OUTSIDE" strokeWidth="0.0" text="" AnchorPane.rightAnchor="4.0"
+                  AnchorPane.topAnchor="5.0">
+                <font>
+                    <Font name="Material Icons" size="14.0"/>
+                </font>
+            </Text>
+        </AnchorPane>
+        <TableView fx:id="table" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="200.0"
+                   prefWidth="200.0" VBox.vgrow="ALWAYS">
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY"/>
+            </columnResizePolicy>
+        </TableView>
+    </VBox>
+    <HBox maxHeight="-Infinity" maxWidth="+Infinity" minHeight="-Infinity" minWidth="-Infinity" GridPane.columnIndex="1"
+          GridPane.rowIndex="1">
+        <HBox alignment="CENTER">
+            <HBox.margin>
+                <Insets/>
+            </HBox.margin>
+        </HBox>
+        <Pane maxWidth="+Infinity" HBox.hgrow="ALWAYS"/>
+        <Button cancelButton="true" minWidth="80.0" mnemonicParsing="false" fx:id="cancelButton" onAction="#cancel"
+                text="Cancel"
+                HBox.hgrow="NEVER">
+            <HBox.margin>
+                <Insets/>
+            </HBox.margin>
+        </Button>
+        <HBox alignment="CENTER">
+            <Button minWidth="80.0" mnemonicParsing="false" fx:id="selectButton" text="Select" HBox.hgrow="NEVER">
+                <HBox.margin>
+                    <Insets left="14.0"/>
+                </HBox.margin>
+            </Button>
+        </HBox>
+    </HBox>
+</GridPane>

@@ -1,0 +1,1748 @@
+--------TYPES
+000001,Student,25,10
+000002,Teacher,45,15
+000003,Administrator,70,25
+--------PATRONS
+000000,David,Roggers,000001
+000001,Nichk,Quack,000002
+000002,Reynard,Ronci,000001
+000003,Danell,Oglethorpe,000001
+000004,Gus,Goose,000001
+000005,Judon,Jarry,000001
+000006,Merline,Brewett,000002
+000007,Jaye,Baden,000002
+000008,Magda,Estabrook,000002
+000009,Marys,Janssens,000001
+000010,Anica,Looney,000001
+000011,Anna-diana,Hegarty,000002
+000012,Gabriella,Longbottom,000002
+000013,Hugibert,Rowth,000001
+000014,Felice,Coping,000002
+000015,Kari,Tellenbrook,000001
+000016,Monica,Dinnage,000001
+000017,Ashil,Cavalier,000001
+000018,Trudey,Blythin,000002
+000019,Tomasina,Buckhurst,000002
+000020,Eduard,Pleasaunce,000002
+000021,Lynnet,Landsman,000001
+000022,Reider,Wonham,000002
+000023,Kipp,O'Glassane,000001
+000024,Margarette,Insall,000002
+000025,Ivy,Shanahan,000002
+000026,Myriam,Dodsley,000002
+000027,Dougie,MacCrossan,000001
+000028,Mylo,Swanborough,000002
+000029,Levi,Strutton,000001
+000030,Ceil,Jefford,000002
+000031,Durante,Carne,000002
+000032,Gaven,Egdal,000001
+000033,Maye,Kiggel,000001
+000034,Brennen,Muckart,000002
+000035,Grannie,Ivanov,000002
+000036,Ragnar,Bryden,000001
+000037,Sergio,Bromhead,000002
+000038,Brew,Pesek,000001
+000039,Ravi,Harroway,000002
+000040,Alia,Bard,000002
+000041,Zebulon,Dono,000001
+000042,Baron,Howen,000002
+000043,Morly,Robardey,000002
+000044,Brear,Lamplough,000002
+000045,Prentice,Flea,000002
+000046,Demeter,Boobier,000002
+000047,Georgine,Candish,000001
+000048,Derrik,McMeeking,000001
+000049,Gallard,Michieli,000002
+000050,Antons,Drayn,000001
+000051,Kelsey,Innett,000002
+000052,Abigale,Harty,000001
+000053,Huberto,Cayton,000001
+000054,Angus,Lavrick,000002
+000055,Zitella,Schiesterl,000002
+000056,Ase,Leitche,000001
+000057,Luz,Dirr,000002
+000058,Garald,Forrington,000001
+000059,Dante,Sarrell,000002
+000060,Steffi,Sturley,000001
+000061,Adler,Krammer,000002
+000062,Dianna,Facey,000002
+000063,Lawry,Seemmonds,000001
+000064,Lacey,Kilbee,000002
+000065,Gussie,Currell,000002
+000066,Noelyn,Dever,000001
+000067,Rozelle,Furmonger,000002
+000068,Ettore,Thompsett,000001
+000069,Jaime,Stuchbery,000002
+000070,Mireille,McAvin,000001
+000071,Isidore,Viney,000002
+000072,Tiebout,Nafziger,000001
+000073,Gabi,Tizard,000001
+000074,Conn,Freeth,000002
+000075,Herminia,Beaman,000002
+000076,Muire,Lennarde,000002
+000077,Roanna,Balleine,000001
+000078,Mitthew,Milstead,000001
+000079,Henrietta,Hirtzmann,000001
+000080,Dewie,Goter,000002
+000081,Prisca,Hesbrook,000001
+000082,Odessa,Crispin,000002
+000083,Gail,Learned,000002
+000084,Srikavin,Ramkumar,000002
+000085,Nadean,Gittus,000002
+000086,Keelby,Coleford,000001
+000087,Maynard,McConnal,000002
+000088,Leland,Greeno,000002
+000089,Bobbi,Cockroft,000001
+000090,Staford,Yeardley,000002
+000091,Hugues,Bellis,000001
+000092,Charis,Petley,000002
+000093,Gasparo,Fynn,000002
+000094,Modestine,Lantiffe,000002
+000095,Amie,Spilsburie,000002
+000096,Terrance,Cantwell,000001
+000097,Penrod,Sydes,000002
+000098,Trumann,Denerley,000001
+000099,Davie,Rolinson,000001
+000100,Vivien,Derby,000001
+000101,Trude,Atherley,000001
+--------BOOKS
+000000,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,CHECKED_OUT,000028,2018-03-20T18:17:10Z
+000001,Phoebe and Her Unicorn in the Magic Storm,"Simpson, Dana",9781449488758,CHECKED_OUT,000091,2018-03-23T15:48:12Z
+000002,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,LOST,null,null
+000003,A Wrinkle in Time,"L'Engle, Madeleine",9781429915649,CHECKED_OUT,000076,2018-04-13T06:27:07Z
+000004,Hamlet,"Shakespeare, William",9781775412793,AVAILABLE,null,null
+000005,First Love,"Patterson, James;  Raymond, Emily",9780316242332,CHECKED_OUT,000071,2018-03-29T17:27:57Z
+000006,Ellray Jakes the Recess King!,"Warner, Sally;  Biggs, Brian (ILT)",9780698153271,CHECKED_OUT,000095,2018-03-31T21:14:41Z
+000007,Three Little Words,"Harvey, Sarah N.",9781459800670,CHECKED_OUT,000087,2018-03-24T12:39:15Z
+000008,Mistakes Were Made,"Pastis, Stephan",9780763687946,CHECKED_OUT,000073,2018-04-26T06:06:21Z
+000009,The Get Rich Quick Club,"Gutman, Dan",9780061973239,CHECKED_OUT,000046,2018-04-16T01:36:16Z
+000010,Mrs. Roopy Is Loopy!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973437,CHECKED_OUT,000048,2018-04-02T12:28:44Z
+000011,Otherwise Known As Sheila the Great,"Blume, Judy",9781101564080,AVAILABLE,null,null
+000012,Ten,"McNeil, Gretchen",9780062118806,CHECKED_OUT,000071,2018-04-24T18:20:52Z
+000013,Viking Ships at Sunrise,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894725,LOST,null,null
+000014,A Thousand Pieces of You,"Gray, Claudia",9780062278982,LOST,null,null
+000015,Shell Game,"Pearson, Ridley",9781423153429,CHECKED_OUT,000011,2018-03-23T04:04:44Z
+000016,Jinx,"Blackwood, Sage",9780062129925,AVAILABLE,null,null
+000017,Origins,"Smith, L. J. (CRT)# Williamson, Kevin;  Plec, Julie",9780062020406,CHECKED_OUT,000033,2018-05-07T03:12:34Z
+000018,Pete at the Beach,"Dean, James;  Dean, James (ILT)",9780062110749,CHECKED_OUT,000014,2018-03-26T13:00:16Z
+000019,The One,"Cass, Kiera",9780062060013,CHECKED_OUT,000039,2018-03-25T21:06:07Z
+000020,We Were Liars,"Lockhart, E.; Meyers, Ariadne (NAR)",9780804168427,CHECKED_OUT,000081,2018-03-23T09:07:09Z
+000021,Dawn of the Clans,"Hunter, Erin;  McLoughlin, Wayne;  Douglas, Allen (ILT)",9780062063656,LOST,null,null
+000022,Robots Rule the School,"Hopper, Ada;  Ricks, Sam (ILT)",9781481463140,CHECKED_OUT,000098,2018-04-07T21:30:17Z
+000023,The Serpent's Shadow,"Riordan, Rick",9781423163275,CHECKED_OUT,000035,2018-03-16T16:09:56Z
+000024,Crookedstar's Promise,"Hunter, Erin",9780062084620,CHECKED_OUT,000062,2018-03-30T00:15:01Z
+000025,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,CHECKED_OUT,000049,2018-03-27T03:53:04Z
+000026,The Secret Ingredient,"Lewis, Stewart",9780449810019,CHECKED_OUT,000023,2018-03-20T19:53:22Z
+000027,The Book Thief,"Zusak, Markus",9780307433848,CHECKED_OUT,000030,2018-04-04T01:55:48Z
+000028,Dance With a Vampire,"Schreiber, Ellen",9780061975660,CHECKED_OUT,000089,2018-04-01T14:33:19Z
+000029,Piecing Me Together,"Watson, Renée",9781681191065,AVAILABLE,null,null
+000030,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,CHECKED_OUT,000011,2018-04-01T08:09:30Z
+000031,Aphrodite the Diva,"Williams, Suzanne;  Holub, Joan;  Hanson, Glen",9781442420991,AVAILABLE,null,null
+000032,Mrs. Meyer Is on Fire!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062284310,CHECKED_OUT,000072,2018-04-12T07:57:50Z
+000033,Origins,"Smith, L. J. (CRT)# Williamson, Kevin;  Plec, Julie",9780062020406,CHECKED_OUT,000009,2018-04-16T01:29:08Z
+000034,Dog Man,"Pilkey, Dav",9780545935456,AVAILABLE,null,null
+000035,Angelica the Angel Fairy,"Meadows, Daisy",9780545723169,AVAILABLE,null,null
+000036,Big Nate Here Goes Nothing,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086976,AVAILABLE,null,null
+000037,The Janitor's Boy,"Clements, Andrew;  Selznick, Brian (ILT)",9780689850516,AVAILABLE,null,null
+000038,Night Whispers,"Hunter, Erin;  Richardson, Owen (ILT)# Douglas, Allen (ILT)",9780062025173,AVAILABLE,null,null
+000039,Snow White Lucks Out,"Holub, Joan;  Williams, Suzanne",9780545662833,CHECKED_OUT,000090,2018-03-23T20:01:47Z
+000040,Lily's Crossing,"Giff, Patricia Reilly",9780385729932,CHECKED_OUT,000039,2018-04-11T23:46:52Z
+000041,Hour of the Olympics,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894732,CHECKED_OUT,000065,2018-04-22T20:25:20Z
+000042,The Talented Clementine,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423141433,LOST,null,null
+000043,Keira the Movie Star Fairy,"Meadows, Daisy",9780545549554,CHECKED_OUT,000039,2018-04-30T23:16:12Z
+000044,The Coldest Girl in Coldtown,"Black, Holly",9780316323635,AVAILABLE,null,null
+000045,The Serpent's Shadow,"Riordan, Rick",9781423163275,AVAILABLE,null,null
+000046,Ted & Me,"Gutman, Dan",9780062102102,CHECKED_OUT,000010,2018-04-23T04:55:31Z
+000047,Ramona the Brave,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972355,CHECKED_OUT,000005,2018-04-10T00:02:09Z
+000048,Rules,"Lord, Cynthia",9780545666206,LOST,null,null
+000049,"Listen, Slowly","Lai, Thanhha",9780062229205,CHECKED_OUT,000023,2018-04-23T07:29:28Z
+000050,Red Riding Hood Gets Lost,"Holub, Joan;  Williams, Suzanne",9780545633857,AVAILABLE,null,null
+000051,Disney at Dawn,"Pearson, Ridley;  Elwell, Tristan (ILT)",9781423141150,CHECKED_OUT,000053,2018-04-28T06:07:17Z
+000052,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,AVAILABLE,null,null
+000053,My Kite Is Stuck! and Other Stories,"Yoon, Salina",9781619638884,AVAILABLE,null,null
+000054,Bad Kitty Takes the Test,"Bruel, Nick",9781250150141,CHECKED_OUT,000036,2018-04-23T00:43:28Z
+000055,The Burning Tide,"Auxier, Jonathan",9780545832151,AVAILABLE,null,null
+000056,Makoons,"Erdrich, Louise",9780062395405,AVAILABLE,null,null
+000057,Shell Game,"Pearson, Ridley",9781423153429,AVAILABLE,null,null
+000058,Immortal Guardians,"Schrefer, Eliot",9780545830010,AVAILABLE,null,null
+000059,The Giver,"Lowry, Lois",9780547345901,CHECKED_OUT,000060,2018-04-08T06:32:12Z
+000060,Return of the Padawan,"Brown, Jeffrey",9780545666435,CHECKED_OUT,000075,2018-04-20T14:33:44Z
+000061,Disney at Dawn,"Pearson, Ridley;  Elwell, Tristan (ILT)",9781423141150,AVAILABLE,null,null
+000062,Big Nate Say Good-bye to Dork City,"Peirce, Lincoln",9781449469818,CHECKED_OUT,000070,2018-03-25T07:06:41Z
+000063,The Book of Storms,"Hatfield, Ruth;  Call, Greg (ILT)",9780805099997,CHECKED_OUT,000067,2018-04-18T19:28:27Z
+000064,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,AVAILABLE,null,null
+000065,Miss Kraft Is Daft!,"Gutman, Dan;  Paillot, Jim",9780062042170,AVAILABLE,null,null
+000066,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,AVAILABLE,null,null
+000067,Big Nate Goes for Broke,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107619,CHECKED_OUT,000072,2018-04-09T10:58:46Z
+000068,Timmy Failure,"Pastis, Stephan;  Pastis, Stephan (ILT)",9780763688776,CHECKED_OUT,000083,2018-04-08T00:07:17Z
+000069,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,CHECKED_OUT,000012,2018-03-21T12:12:41Z
+000070,Mrs. Lane Is a Pain!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062198495,CHECKED_OUT,000098,2018-04-18T14:10:03Z
+000071,Dawn of the Clans,"Hunter, Erin;  McLoughlin, Wayne;  Douglas, Allen (ILT)",9780062063656,CHECKED_OUT,000098,2018-04-24T11:42:30Z
+000072,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,CHECKED_OUT,000080,2018-03-23T03:45:22Z
+000073,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,AVAILABLE,null,null
+000074,Big Nate Say Good-bye to Dork City,"Peirce, Lincoln",9781449469818,CHECKED_OUT,000051,2018-04-24T10:33:54Z
+000075,First Love,"Patterson, James;  Raymond, Emily",9780316242332,AVAILABLE,null,null
+000076,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,CHECKED_OUT,000098,2018-03-15T19:10:31Z
+000077,The Get Rich Quick Club,"Gutman, Dan",9780061973239,LOST,null,null
+000078,The Beginner's Guide to Canadian Honours,"Mccreery, Christopher",9781770702851,AVAILABLE,null,null
+000079,Ms. Coco Is Loco!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973369,AVAILABLE,null,null
+000080,The Last Olympian,"Riordan, Rick",9781423131991,CHECKED_OUT,000091,2018-04-14T10:36:20Z
+000081,Aloha-ha-ha!,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894480,AVAILABLE,null,null
+000082,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,AVAILABLE,null,null
+000083,The Evolution of Calpurnia Tate,"Kelly, Jacqueline",9781429993074,CHECKED_OUT,000007,2018-04-18T04:47:36Z
+000084,The Book of Storms,"Hatfield, Ruth;  Call, Greg (ILT)",9780805099997,AVAILABLE,null,null
+000085,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,AVAILABLE,null,null
+000086,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,CHECKED_OUT,000080,2018-04-19T20:59:14Z
+000087,Dog Man,"Pilkey, Dav",9780545935456,AVAILABLE,null,null
+000088,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,CHECKED_OUT,000090,2018-04-27T18:01:56Z
+000089,Old School,"Kinney, Jeff",9781613128275,LOST,null,null
+000090,The Maple Festival,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481441988,LOST,null,null
+000091,Angel,"Patterson, James",9780316185226,LOST,null,null
+000092,Captain Underpants and the Tyrannical Retaliation of the Turbo Toilet 2000,"Pilkey, Dav",9780545667029,CHECKED_OUT,000007,2018-05-02T14:59:41Z
+000093,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,CHECKED_OUT,000099,2018-05-04T14:50:19Z
+000094,The Notebook,"Sparks, Nicholas",9780446596190,AVAILABLE,null,null
+000095,Ribsy,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972386,CHECKED_OUT,000034,2018-03-22T17:46:27Z
+000096,"Good Morning, Gorillas","Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894831,CHECKED_OUT,000011,2018-04-30T23:24:34Z
+000097,The Notebook,"Sparks, Nicholas",9780446596190,LOST,null,null
+000098,Emily Windsnap and the Monster from the Deep,"Kessler, Liz;  Gibb, Sarah (ILT)",9780763652418,CHECKED_OUT,000092,2018-03-13T14:52:17Z
+000099,Tales from a Not-so-friendly Frenemy,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781481479219,CHECKED_OUT,000000,2018-04-22T00:12:20Z
+000100,Edison's Alley,"Shusterman, Neal;  Elfman, Eric",9781423155188,CHECKED_OUT,000010,2018-04-30T05:12:02Z
+000101,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,AVAILABLE,null,null
+000102,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,AVAILABLE,null,null
+000103,Angel,"Patterson, James",9780316185226,LOST,null,null
+000104,Night Whispers,"Hunter, Erin;  Richardson, Owen (ILT)# Douglas, Allen (ILT)",9780062025173,AVAILABLE,null,null
+000105,Big Nate Goes for Broke,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107619,AVAILABLE,null,null
+000106,Amelia Bedelia Means Business,"Parish, Herman;  Avril, Lynne (ILT)",9780062094988,AVAILABLE,null,null
+000107,The Knight at Dawn,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780449818244,CHECKED_OUT,000000,2018-05-07T08:22:58Z
+000108,Eclipse,"Meyer, Stephenie",9780316137782,AVAILABLE,null,null
+000109,Ted & Me,"Gutman, Dan",9780062102102,CHECKED_OUT,000087,2018-04-03T23:11:12Z
+000110,Three Little Words,"Harvey, Sarah N.",9781459800670,CHECKED_OUT,000025,2018-03-27T22:01:24Z
+000111,Aloha-ha-ha!,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894480,CHECKED_OUT,000036,2018-04-26T16:56:51Z
+000112,"Hello, Universe","Kelly, Erin Entrada;  Roxas, Isabel (ILT)",9780062414175,LOST,null,null
+000113,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,CHECKED_OUT,000069,2018-03-14T05:15:41Z
+000114,A Wrinkle in Time,"L'Engle, Madeleine",9781429915649,CHECKED_OUT,000039,2018-04-28T10:06:59Z
+000115,Junie B. Jones Is a Party Animal,"Park, Barbara;  Brunkus, Denise (ILT)",9780307754769,AVAILABLE,null,null
+000116,Big Nate Strikes Again,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107633,CHECKED_OUT,000022,2018-04-26T15:57:17Z
+000117,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,CHECKED_OUT,000096,2018-04-23T03:52:48Z
+000118,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,AVAILABLE,null,null
+000119,Tales from a Not-so-friendly Frenemy,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781481479219,CHECKED_OUT,000023,2018-04-24T15:53:12Z
+000120,Annabel,"Oliver, Lauren",9780062237385,CHECKED_OUT,000077,2018-04-17T23:27:03Z
+000121,Escape to Australia,"Patterson, James;  Chatterton, Martin (CON)# Griffo, Daniel (ILT)",9780316434072,AVAILABLE,null,null
+000122,Garvey's Choice,"Grimes, Nikki",9781629797472,LOST,null,null
+000123,Carly the School Fairy,"Meadows, Daisy",9780545723152,AVAILABLE,null,null
+000124,Tales from a Not-so-talented Pop Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442441231,AVAILABLE,null,null
+000125,First Love,"Patterson, James;  Raymond, Emily",9780316242332,CHECKED_OUT,000097,2018-03-26T11:41:53Z
+000126,A Thousand Pieces of You,"Gray, Claudia",9780062278982,AVAILABLE,null,null
+000127,Hamlet,"Shakespeare, William",9781775412793,AVAILABLE,null,null
+000128,The Fire,"Patterson, James;  Dembowski, Jill",9780316194655,CHECKED_OUT,000020,2018-03-19T06:49:16Z
+000129,Henry and the Paper Route,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972225,AVAILABLE,null,null
+000130,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,AVAILABLE,null,null
+000131,Lily's Crossing,"Giff, Patricia Reilly",9780385729932,CHECKED_OUT,000060,2018-04-07T10:03:48Z
+000132,Delirium,"Oliver, Lauren",9780062114037,AVAILABLE,null,null
+000133,Three Little Words,"Harvey, Sarah N.",9781459800670,AVAILABLE,null,null
+000134,Edison's Alley,"Shusterman, Neal;  Elfman, Eric",9781423155188,CHECKED_OUT,000008,2018-04-12T08:56:32Z
+000135,The Book of Storms,"Hatfield, Ruth;  Call, Greg (ILT)",9780805099997,CHECKED_OUT,000097,2018-04-16T08:19:10Z
+000136,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,CHECKED_OUT,000046,2018-04-25T06:02:05Z
+000137,Big Nate What Could Possibly Go Wrong?,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086952,AVAILABLE,null,null
+000138,Origins,"Smith, L. J. (CRT)# Williamson, Kevin;  Plec, Julie",9780062020406,AVAILABLE,null,null
+000139,The Bad Guys in Attack of the Zittens,"Blabey, Aaron;  Blabey, Aaron (ILT)",9781338087543,CHECKED_OUT,000089,2018-04-07T21:34:34Z
+000140,Catching Fire,"Collins, Suzanne",9780545227247,CHECKED_OUT,000048,2018-05-07T23:51:33Z
+000141,The Third Wheel,"Kinney, Jeff",9781613124505,AVAILABLE,null,null
+000142,The Maple Festival,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481441988,CHECKED_OUT,000010,2018-05-08T00:43:03Z
+000143,Unusual Creatures,"Hearst, Michael;  Noordeman, Jelmer (ILT)",9781452119854,CHECKED_OUT,000071,2018-04-22T07:39:40Z
+000144,Cara the Camp Fairy,"Meadows, Daisy",9780545461702,CHECKED_OUT,000062,2018-03-19T16:50:11Z
+000145,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,AVAILABLE,null,null
+000146,First Love,"Patterson, James;  Raymond, Emily",9780316242332,CHECKED_OUT,000059,2018-04-21T04:14:45Z
+000147,Escape to Australia,"Patterson, James;  Chatterton, Martin (CON)# Griffo, Daniel (ILT)",9780316434072,LOST,null,null
+000148,The Cheerleaders of Doom,"Buckley, Michael;  Beavers, Ethen (ILT)",9781613126424,AVAILABLE,null,null
+000149,Warriors: Tigerclaw's Fury,"Hunter, Erin",9780062287557,LOST,null,null
+000150,Natalie the Christmas Stocking Fairy,"Meadows, Daisy",9780545725637,CHECKED_OUT,000000,2018-05-04T22:32:56Z
+000151,Old School,"Kinney, Jeff",9781613128275,CHECKED_OUT,000052,2018-04-21T16:43:46Z
+000152,Ted & Me,"Gutman, Dan",9780062102102,AVAILABLE,null,null
+000153,Dingoes at Dinnertime,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894770,AVAILABLE,null,null
+000154,Amelia Bedelia Cleans Up,"Parish, Herman;  Avril, Lynne (ILT)",9780062334022,AVAILABLE,null,null
+000155,The Get Rich Quick Club,"Gutman, Dan",9780061973239,CHECKED_OUT,000019,2018-05-04T20:10:58Z
+000156,Hundred Percent,"Young, Karen Romano",9781452143644,LOST,null,null
+000157,Eldest,"Paolini, Christopher",9780375837531,AVAILABLE,null,null
+000158,The Death Cure,"Dashner, James",9780375896125,LOST,null,null
+000159,The One,"Cass, Kiera",9780062060013,AVAILABLE,null,null
+000160,Chasing the Prophecy,"Mull, Brandon",9781416998006,AVAILABLE,null,null
+000161,Amelia Bedelia Makes a Splash,"Parish, Herman;  Avril, Lynne (ILT)",9780062658418,CHECKED_OUT,000075,2018-04-30T07:00:59Z
+000162,Civil War on Sunday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894787,LOST,null,null
+000163,Creating the Constitution 1787,"Collier, James Lincoln;  Collier, Christopher",9781620645017,AVAILABLE,null,null
+000164,The Remedy,"Young, Suzanne; Ross, Rebekkah (NAR)",9781442381773,CHECKED_OUT,000031,2018-04-24T18:44:31Z
+000165,Snow White Lucks Out,"Holub, Joan;  Williams, Suzanne",9780545662833,AVAILABLE,null,null
+000166,Amelia Bedelia Means Business,"Parish, Herman;  Avril, Lynne (ILT)",9780062094988,AVAILABLE,null,null
+000167,Tales from a Not-so-glam TV Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442487680,CHECKED_OUT,000039,2018-05-02T04:15:31Z
+000168,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,CHECKED_OUT,000022,2018-04-28T20:21:40Z
+000169,The Sword of Summer,"Riordan, Rick",9781484719329,LOST,null,null
+000170,The Girl in the Steel Corset,"Cross, Kady",9781459205383,CHECKED_OUT,000088,2018-04-01T16:29:40Z
+000171,The Beginner's Guide to Canadian Honours,"Mccreery, Christopher",9781770702851,AVAILABLE,null,null
+000172,The Best Man,"Peck, Richard",9780698189737,AVAILABLE,null,null
+000173,Snow White Lucks Out,"Holub, Joan;  Williams, Suzanne",9780545662833,CHECKED_OUT,000042,2018-03-22T18:39:49Z
+000174,Junie B. Jones and a Little Monkey Business,"Park, Barbara;  Brunkus, Denise (ILT)",9780307754776,AVAILABLE,null,null
+000175,Tigers at Twilight,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894763,CHECKED_OUT,000056,2018-05-01T03:05:31Z
+000176,Hundred Percent,"Young, Karen Romano",9781452143644,AVAILABLE,null,null
+000177,Night Whispers,"Hunter, Erin;  Richardson, Owen (ILT)# Douglas, Allen (ILT)",9780062025173,AVAILABLE,null,null
+000178,Harry Potter and the Order of the Phoenix,"Rowling, J. K.;  Moss, Olly (ILT)",9781781100530,CHECKED_OUT,000049,2018-04-21T07:27:41Z
+000179,Mrs. Lane Is a Pain!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062198495,LOST,null,null
+000180,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,LOST,null,null
+000181,Aphrodite the Diva,"Williams, Suzanne;  Holub, Joan;  Hanson, Glen",9781442420991,LOST,null,null
+000182,Aloha-ha-ha!,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894480,CHECKED_OUT,000071,2018-04-17T13:31:20Z
+000183,Big Nate from the Top,"Peirce, Lincoln",9781449410292,AVAILABLE,null,null
+000184,The Kid Who Ran for President,"Gutman, Dan",9780545355650,CHECKED_OUT,000040,2018-03-15T02:22:27Z
+000185,Henry Huggins,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972232,CHECKED_OUT,000086,2018-04-15T10:10:33Z
+000186,Othello,"Shakespeare, William",9781775412144,AVAILABLE,null,null
+000187,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,AVAILABLE,null,null
+000188,Snow White Lucks Out,"Holub, Joan;  Williams, Suzanne",9780545662833,CHECKED_OUT,000092,2018-05-07T09:33:20Z
+000189,Return of the Padawan,"Brown, Jeffrey",9780545666435,AVAILABLE,null,null
+000190,Makoons,"Erdrich, Louise",9780062395405,AVAILABLE,null,null
+000191,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,AVAILABLE,null,null
+000192,The Last Olympian,"Riordan, Rick",9781423131991,CHECKED_OUT,000028,2018-03-28T05:23:38Z
+000193,The Serpent's Shadow,"Riordan, Rick",9781423163275,CHECKED_OUT,000040,2018-03-17T16:30:27Z
+000194,Big Nate and Friends,"Peirce, Lincoln",9781449420482,AVAILABLE,null,null
+000195,The Last Olympian,"Riordan, Rick",9781423131991,AVAILABLE,null,null
+000196,Civil War on Sunday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894787,AVAILABLE,null,null
+000197,Honus & Me,"Gutman, Dan",9780061973246,LOST,null,null
+000198,Super Fly,"Doodler, Todd H.",9781619633803,CHECKED_OUT,000016,2018-05-06T17:27:05Z
+000199,Jinx,"Blackwood, Sage",9780062129925,AVAILABLE,null,null
+000200,The Book Thief,"Zusak, Markus",9780307433848,AVAILABLE,null,null
+000201,Nick and Tesla's Special Effects Spectacular,"Pflugfelder, Bob;  Hockensmith, Steve",9781594747809,CHECKED_OUT,000007,2018-03-29T03:50:14Z
+000202,Delirium,"Oliver, Lauren",9780062114037,CHECKED_OUT,000071,2018-04-29T07:23:18Z
+000203,The Kid Who Ran for President,"Gutman, Dan",9780545355650,CHECKED_OUT,000071,2018-03-30T17:17:18Z
+000204,The Seventh Wish,"Messner, Kate",9781619633773,LOST,null,null
+000205,The 5th Wave,"Yancey, Rick; Espinoza, Brandon (NAR)",9781624068676,AVAILABLE,null,null
+000206,Goldilocks Breaks in,"Holub, Joan;  Williams, Suzanne",9780545786782,AVAILABLE,null,null
+000207,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,LOST,null,null
+000208,The Book of Storms,"Hatfield, Ruth;  Call, Greg (ILT)",9780805099997,AVAILABLE,null,null
+000209,Circus Mirandus,"Beasley, Cassie",9780698189065,CHECKED_OUT,000037,2018-03-26T11:53:52Z
+000210,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,CHECKED_OUT,000004,2018-04-09T21:58:22Z
+000211,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,CHECKED_OUT,000050,2018-04-25T23:59:49Z
+000212,Honus & Me,"Gutman, Dan",9780061973246,LOST,null,null
+000213,Breakout,"West, Tracey",9780545848008,AVAILABLE,null,null
+000214,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,CHECKED_OUT,000079,2018-03-28T18:13:31Z
+000215,Six of Crows,"Bardugo, Leigh",9781627795227,AVAILABLE,null,null
+000216,Depths of Madness,"de Bie, Erik Scott",9780786956746,CHECKED_OUT,000028,2018-04-08T04:08:37Z
+000217,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,CHECKED_OUT,000077,2018-04-07T00:07:06Z
+000218,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,CHECKED_OUT,000010,2018-04-06T08:57:16Z
+000219,Shell Game,"Pearson, Ridley",9781423153429,CHECKED_OUT,000020,2018-04-27T02:55:42Z
+000220,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,CHECKED_OUT,000005,2018-04-18T11:48:36Z
+000221,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,CHECKED_OUT,000079,2018-04-25T12:25:00Z
+000222,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,AVAILABLE,null,null
+000223,Ender's Game,"Card, Orson Scott; Rudnicki, Stefan (NAR)# Ellison, Harlan (NAR)# De Cuir, Gabrielle (NAR)# Various (NAR)",9781427220585,AVAILABLE,null,null
+000224,Henry Huggins,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972232,CHECKED_OUT,000062,2018-04-11T06:46:32Z
+000225,The Remedy,"Young, Suzanne; Ross, Rebekkah (NAR)",9781442381773,CHECKED_OUT,000051,2018-03-16T10:18:02Z
+000226,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,CHECKED_OUT,000039,2018-03-31T11:02:15Z
+000227,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,CHECKED_OUT,000040,2018-04-21T23:46:44Z
+000228,Nick and Tesla's Special Effects Spectacular,"Pflugfelder, Bob;  Hockensmith, Steve",9781594747809,CHECKED_OUT,000030,2018-03-23T19:30:45Z
+000229,Word of Mouse,"Patterson, James;  Grabenstein, Chris;  Sutphin, Joe (ILT)",9780316317566,LOST,null,null
+000230,Play Ball!,"Dean, James;  Dean, James (ILT)",9780062110688,CHECKED_OUT,000081,2018-05-07T10:00:15Z
+000231,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,LOST,null,null
+000232,Harry Potter and the Order of the Phoenix,"Rowling, J. K.;  Moss, Olly (ILT)",9781781100530,CHECKED_OUT,000041,2018-03-20T20:22:30Z
+000233,The Evolution of Calpurnia Tate,"Kelly, Jacqueline",9781429993074,AVAILABLE,null,null
+000234,The Janitor's Boy,"Clements, Andrew;  Selznick, Brian (ILT)",9780689850516,AVAILABLE,null,null
+000235,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,AVAILABLE,null,null
+000236,The Best Man,"Peck, Richard",9780698189737,LOST,null,null
+000237,The First Rule of Punk,"Pérez, Celia C.",9780425290415,CHECKED_OUT,000021,2018-04-13T04:57:57Z
+000238,Captain Underpants and the Perilous Plot of Professor Poopypants,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627979,CHECKED_OUT,000063,2018-03-14T09:56:26Z
+000239,Origins,"Smith, L. J. (CRT)# Williamson, Kevin;  Plec, Julie",9780062020406,AVAILABLE,null,null
+000240,Creating the Constitution 1787,"Collier, James Lincoln;  Collier, Christopher",9781620645017,CHECKED_OUT,000047,2018-03-29T04:03:26Z
+000241,The Battle of Darcy Lane,"Altebrando, Tara",9780762451999,LOST,null,null
+000242,The Apprentice's Quest,"Hunter, Erin",9780062386403,CHECKED_OUT,000048,2018-04-02T01:36:44Z
+000243,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,AVAILABLE,null,null
+000244,Mrs. Dole Is Out of Control!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973505,AVAILABLE,null,null
+000245,Catching Fire,"Collins, Suzanne",9780545227247,AVAILABLE,null,null
+000246,The Landry News,"Clements, Andrew",9780689850523,AVAILABLE,null,null
+000247,My Life Is a Joke,"Patterson, James;  Grabenstein, Chris;  Kerascoet (ILT)",9780316438629,LOST,null,null
+000248,"Junie B., First Grader at Last!","Park, Barbara;  Brunkus, Denise (ILT)",9780375894428,LOST,null,null
+000249,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,CHECKED_OUT,000061,2018-03-25T10:06:07Z
+000250,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,CHECKED_OUT,000039,2018-04-24T16:16:12Z
+000251,The Death Cure,"Dashner, James",9780375896125,AVAILABLE,null,null
+000252,Junie B. Jones Is a Party Animal,"Park, Barbara;  Brunkus, Denise (ILT)",9780307754769,AVAILABLE,null,null
+000253,Junie B. Jones Is a Party Animal,"Park, Barbara;  Brunkus, Denise (ILT)",9780307754769,CHECKED_OUT,000039,2018-03-28T02:32:19Z
+000254,The Girl Games,"Holub, Joan;  Williams, Suzanne",9781442449343,CHECKED_OUT,000016,2018-04-21T21:50:46Z
+000255,Robots Rule the School,"Hopper, Ada;  Ricks, Sam (ILT)",9781481463140,CHECKED_OUT,000097,2018-03-26T16:26:22Z
+000256,Tales from a Not-so-talented Pop Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442441231,CHECKED_OUT,000098,2018-03-16T20:14:33Z
+000257,Return of the Padawan,"Brown, Jeffrey",9780545666435,LOST,null,null
+000258,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,CHECKED_OUT,000038,2018-03-22T02:37:07Z
+000259,Winter's No Time to Sleep!,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481442015,AVAILABLE,null,null
+000260,Dog Man,"Pilkey, Dav",9780545935456,CHECKED_OUT,000051,2018-04-01T19:36:49Z
+000261,The Knight at Dawn,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780449818244,AVAILABLE,null,null
+000262,"Cole, Ninja of Earth","Farshtey, Greg",9780545765930,CHECKED_OUT,000054,2018-03-12T13:06:26Z
+000263,The Burning Tide,"Auxier, Jonathan",9780545832151,CHECKED_OUT,000027,2018-04-27T00:54:40Z
+000264,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,CHECKED_OUT,000096,2018-04-13T15:19:14Z
+000265,Six of Crows,"Bardugo, Leigh",9781627795227,LOST,null,null
+000266,The Evolution of Calpurnia Tate,"Kelly, Jacqueline",9781429993074,CHECKED_OUT,000018,2018-03-28T23:09:09Z
+000267,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,CHECKED_OUT,000028,2018-03-16T04:49:02Z
+000268,My Life Is a Joke,"Patterson, James;  Grabenstein, Chris;  Kerascoet (ILT)",9780316438629,AVAILABLE,null,null
+000269,The Remedy,"Young, Suzanne; Ross, Rebekkah (NAR)",9781442381773,CHECKED_OUT,000099,2018-03-20T17:48:54Z
+000270,"Anna, Banana, and the Monkey in the Middle","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481416108,AVAILABLE,null,null
+000271,The Talented Clementine,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423141433,CHECKED_OUT,000016,2018-04-27T18:11:51Z
+000272,Captain Underpants and the Tyrannical Retaliation of the Turbo Toilet 2000,"Pilkey, Dav",9780545667029,CHECKED_OUT,000057,2018-04-30T15:42:29Z
+000273,The Book Thief,"Zusak, Markus",9780307433848,CHECKED_OUT,000046,2018-04-19T09:57:46Z
+000274,Cara the Camp Fairy,"Meadows, Daisy",9780545461702,AVAILABLE,null,null
+000275,The Girl in the Steel Corset,"Cross, Kady",9781459205383,AVAILABLE,null,null
+000276,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,AVAILABLE,null,null
+000277,Rain Reign,"Martin, Ann M.",9781250064233,AVAILABLE,null,null
+000278,Old School,"Kinney, Jeff",9781613128275,AVAILABLE,null,null
+000279,Harry Potter and the Order of the Phoenix,"Rowling, J. K.;  Moss, Olly (ILT)",9781781100530,AVAILABLE,null,null
+000280,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,CHECKED_OUT,000089,2018-04-09T20:13:47Z
+000281,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,CHECKED_OUT,000052,2018-03-17T20:06:29Z
+000282,The One,"Cass, Kiera",9780062060013,CHECKED_OUT,000039,2018-03-18T04:26:54Z
+000283,The Notebook,"Sparks, Nicholas",9780446596190,AVAILABLE,null,null
+000284,Unusual Creatures,"Hearst, Michael;  Noordeman, Jelmer (ILT)",9781452119854,CHECKED_OUT,000012,2018-03-17T22:57:42Z
+000285,The Kid Who Ran for President,"Gutman, Dan",9780545355650,AVAILABLE,null,null
+000286,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,CHECKED_OUT,000008,2018-03-16T20:19:59Z
+000287,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,AVAILABLE,null,null
+000288,Big Nate Goes for Broke,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107619,AVAILABLE,null,null
+000289,You Only Die Twice,"Gutman, Dan",9780062202840,AVAILABLE,null,null
+000290,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,AVAILABLE,null,null
+000291,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,CHECKED_OUT,000057,2018-03-29T00:38:57Z
+000292,Return of the Padawan,"Brown, Jeffrey",9780545666435,CHECKED_OUT,000088,2018-03-14T22:11:54Z
+000293,The Importance of Being Earnest,"Wilde, Oscar",9780486110189,AVAILABLE,null,null
+000294,Mrs. Meyer Is on Fire!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062284310,AVAILABLE,null,null
+000295,A Team Divided,"West, Tracey",9780545777759,CHECKED_OUT,000039,2018-04-01T17:35:17Z
+000296,Mrs. Meyer Is on Fire!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062284310,AVAILABLE,null,null
+000297,Warriors: Tigerclaw's Fury,"Hunter, Erin",9780062287557,CHECKED_OUT,000072,2018-03-14T15:19:33Z
+000298,Old School,"Kinney, Jeff",9781613128275,CHECKED_OUT,000057,2018-05-05T23:46:59Z
+000299,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,AVAILABLE,null,null
+000300,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,CHECKED_OUT,000004,2018-05-03T02:45:14Z
+000301,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,CHECKED_OUT,000092,2018-04-13T10:20:39Z
+000302,We Were Liars,"Lockhart, E.; Meyers, Ariadne (NAR)",9780804168427,AVAILABLE,null,null
+000303,Big Nate from the Top,"Peirce, Lincoln",9781449410292,AVAILABLE,null,null
+000304,Cheater Pants,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894459,CHECKED_OUT,000061,2018-04-04T07:12:02Z
+000305,The Dangerous Days of Daniel X,"Patterson, James;  Ledwidge, Michael (CON)",9780316143028,LOST,null,null
+000306,Natalie the Christmas Stocking Fairy,"Meadows, Daisy",9780545725637,CHECKED_OUT,000025,2018-03-22T02:39:00Z
+000307,Pete's Big Lunch,"Dean, James;  Dean, James (ILT)",9780062110718,AVAILABLE,null,null
+000308,My Kite Is Stuck! and Other Stories,"Yoon, Salina",9781619638884,AVAILABLE,null,null
+000309,Ribsy,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972386,CHECKED_OUT,000057,2018-03-21T15:25:06Z
+000310,The Giver,"Lowry, Lois",9780547345901,CHECKED_OUT,000093,2018-04-15T04:48:15Z
+000311,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,AVAILABLE,null,null
+000312,The Importance of Being Earnest,"Wilde, Oscar",9780486110189,LOST,null,null
+000313,Honus & Me,"Gutman, Dan",9780061973246,AVAILABLE,null,null
+000314,Aphrodite the Diva,"Williams, Suzanne;  Holub, Joan;  Hanson, Glen",9781442420991,AVAILABLE,null,null
+000315,Othello,"Shakespeare, William",9781775412144,AVAILABLE,null,null
+000316,The Beginner's Guide to Canadian Honours,"Mccreery, Christopher",9781770702851,AVAILABLE,null,null
+000317,Gretel Pushes Back,"Holub, Joan;  Williams, Suzanne",9780545945752,AVAILABLE,null,null
+000318,Play Ball!,"Dean, James;  Dean, James (ILT)",9780062110688,CHECKED_OUT,000050,2018-04-11T14:13:57Z
+000319,Murder Is Bad Manners,"Stevens, Robin",9781481422147,AVAILABLE,null,null
+000320,The Janitor's Boy,"Clements, Andrew;  Selznick, Brian (ILT)",9780689850516,CHECKED_OUT,000060,2018-04-14T21:50:26Z
+000321,"Ramona Quimby, Age 8","Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972348,LOST,null,null
+000322,Captain Underpants and the Perilous Plot of Professor Poopypants,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627979,AVAILABLE,null,null
+000323,The Maple Festival,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481441988,AVAILABLE,null,null
+000324,Pete's Big Lunch,"Dean, James;  Dean, James (ILT)",9780062110718,CHECKED_OUT,000098,2018-04-15T05:27:01Z
+000325,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,CHECKED_OUT,000061,2018-04-20T13:36:17Z
+000326,Junie B. Jones Is a Graduation Girl,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894411,AVAILABLE,null,null
+000327,The Serpent's Shadow,"Riordan, Rick",9781423163275,LOST,null,null
+000328,Dance With a Vampire,"Schreiber, Ellen",9780061975660,AVAILABLE,null,null
+000329,Tigers at Twilight,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894763,AVAILABLE,null,null
+000330,We Were Liars,"Lockhart, E.; Meyers, Ariadne (NAR)",9780804168427,CHECKED_OUT,000037,2018-04-17T23:52:33Z
+000331,Aloha-ha-ha!,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894480,AVAILABLE,null,null
+000332,Hundred Percent,"Young, Karen Romano",9781452143644,AVAILABLE,null,null
+000333,Eclipse,"Meyer, Stephenie",9780316137782,AVAILABLE,null,null
+000334,"Ramona Quimby, Age 8","Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972348,CHECKED_OUT,000083,2018-05-06T23:29:09Z
+000335,The Notebook,"Sparks, Nicholas",9780446596190,AVAILABLE,null,null
+000336,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,CHECKED_OUT,000083,2018-04-19T12:03:17Z
+000337,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,LOST,null,null
+000338,Mrs. Meyer Is on Fire!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062284310,CHECKED_OUT,000015,2018-04-01T22:04:24Z
+000339,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,AVAILABLE,null,null
+000340,My Kite Is Stuck! and Other Stories,"Yoon, Salina",9781619638884,AVAILABLE,null,null
+000341,Jacky Ha-ha,"Patterson, James;  Grabenstein, Chris",9780316303002,CHECKED_OUT,000098,2018-05-01T10:32:38Z
+000342,Return of the Padawan,"Brown, Jeffrey",9780545666435,CHECKED_OUT,000083,2018-03-17T00:44:26Z
+000343,We Are Okay,"Lacour, Nina",9780399538513,CHECKED_OUT,000093,2018-03-29T15:00:07Z
+000344,Crookedstar's Promise,"Hunter, Erin",9780062084620,LOST,null,null
+000345,My Kite Is Stuck! and Other Stories,"Yoon, Salina",9781619638884,CHECKED_OUT,000025,2018-05-02T03:14:44Z
+000346,The First Rule of Punk,"Pérez, Celia C.",9780425290415,CHECKED_OUT,000085,2018-03-28T05:38:41Z
+000347,The Marvels,"Selznick, Brian",9780545922128,AVAILABLE,null,null
+000348,"Hello, Universe","Kelly, Erin Entrada;  Roxas, Isabel (ILT)",9780062414175,AVAILABLE,null,null
+000349,Hour of the Olympics,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894732,AVAILABLE,null,null
+000350,The Get Rich Quick Club,"Gutman, Dan",9780061973239,AVAILABLE,null,null
+000351,The Coldest Girl in Coldtown,"Black, Holly",9780316323635,CHECKED_OUT,000051,2018-04-13T21:07:06Z
+000352,The 5th Wave,"Yancey, Rick; Espinoza, Brandon (NAR)",9781624068676,CHECKED_OUT,000009,2018-05-06T03:51:02Z
+000353,Cinderella Stays Late,"Holub, Joan;  Williams, Suzanne",9780545633840,LOST,null,null
+000354,Shell Game,"Pearson, Ridley",9781423153429,AVAILABLE,null,null
+000355,Journey to the Crystal Cave,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481499873,CHECKED_OUT,000047,2018-05-01T03:50:05Z
+000356,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,AVAILABLE,null,null
+000357,Harry Potter and the Order of the Phoenix,"Rowling, J. K.;  Moss, Olly (ILT)",9781781100530,AVAILABLE,null,null
+000358,Big Nate Say Good-bye to Dork City,"Peirce, Lincoln",9781449469818,CHECKED_OUT,000040,2018-04-07T08:17:57Z
+000359,Thanksgiving on Thursday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894848,AVAILABLE,null,null
+000360,Piecing Me Together,"Watson, Renée",9781681191065,AVAILABLE,null,null
+000361,The Get Rich Quick Club,"Gutman, Dan",9780061973239,CHECKED_OUT,000060,2018-03-20T02:57:03Z
+000362,The Apprentice's Quest,"Hunter, Erin",9780062386403,AVAILABLE,null,null
+000363,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,AVAILABLE,null,null
+000364,Hamlet,"Shakespeare, William",9781775412793,AVAILABLE,null,null
+000365,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,CHECKED_OUT,000039,2018-04-25T14:12:14Z
+000366,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,LOST,null,null
+000367,The Death Cure,"Dashner, James",9780375896125,LOST,null,null
+000368,Othello,"Shakespeare, William",9781775412144,CHECKED_OUT,000048,2018-04-12T07:51:49Z
+000369,Disney at Dawn,"Pearson, Ridley;  Elwell, Tristan (ILT)",9781423141150,AVAILABLE,null,null
+000370,Big Nate Strikes Again,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107633,CHECKED_OUT,000038,2018-04-09T08:54:24Z
+000371,The Girl Games,"Holub, Joan;  Williams, Suzanne",9781442449343,AVAILABLE,null,null
+000372,Thanksgiving on Thursday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894848,CHECKED_OUT,000035,2018-03-30T18:29:29Z
+000373,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,AVAILABLE,null,null
+000374,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,AVAILABLE,null,null
+000375,Makoons,"Erdrich, Louise",9780062395405,LOST,null,null
+000376,The Giver,"Lowry, Lois",9780547345901,AVAILABLE,null,null
+000377,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,CHECKED_OUT,000024,2018-03-25T11:52:07Z
+000378,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,AVAILABLE,null,null
+000379,Big Nate I Can't Take It!,"Peirce, Lincoln",9781449440565,AVAILABLE,null,null
+000380,The Landry News,"Clements, Andrew",9780689850523,CHECKED_OUT,000083,2018-03-18T08:33:53Z
+000381,Surviving the Applewhites,"Tolan, Stephanie S.",9780062213365,CHECKED_OUT,000016,2018-05-04T19:49:13Z
+000382,Big Nate from the Top,"Peirce, Lincoln",9781449410292,CHECKED_OUT,000008,2018-03-20T07:02:32Z
+000383,The Chicken Squad,"Cronin, Doreen;  Cornell, Kevin (ILT)",9781442496781,AVAILABLE,null,null
+000384,I Am Malala,"Yousafzai, Malala;  McCormick, Patricia (CON)",9780316327923,CHECKED_OUT,000094,2018-04-23T22:52:37Z
+000385,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,CHECKED_OUT,000014,2018-03-22T02:09:20Z
+000386,Frank Einstein and the Brainturbo,"Scieszka, Jon;  Biggs, Brian (ILT)",9781613128299,AVAILABLE,null,null
+000387,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,AVAILABLE,null,null
+000388,Jacky Ha-ha,"Patterson, James;  Grabenstein, Chris",9780316303002,AVAILABLE,null,null
+000389,The Lost Hero,"Riordan, Rick",9781423145400,AVAILABLE,null,null
+000390,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,LOST,null,null
+000391,Mrs. Roopy Is Loopy!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973437,CHECKED_OUT,000008,2018-03-31T13:23:52Z
+000392,Junie B. Jones and a Little Monkey Business,"Park, Barbara;  Brunkus, Denise (ILT)",9780307754776,CHECKED_OUT,000003,2018-05-06T11:57:08Z
+000393,The 13-story Treehouse,"Griffiths, Andy;  Denton, Terry (ILT)",9781250042392,LOST,null,null
+000394,Hour of the Olympics,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894732,CHECKED_OUT,000054,2018-04-05T05:09:52Z
+000395,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,LOST,null,null
+000396,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,LOST,null,null
+000397,Gabriella the Snow Kingdom Fairy,"Meadows, Daisy",9780545286893,LOST,null,null
+000398,Junie B. Jones Is Captain Field Day,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894404,CHECKED_OUT,000063,2018-04-10T21:50:12Z
+000399,The Fire,"Patterson, James;  Dembowski, Jill",9780316194655,CHECKED_OUT,000004,2018-04-19T22:27:12Z
+000400,My Kite Is Stuck! and Other Stories,"Yoon, Salina",9781619638884,AVAILABLE,null,null
+000401,Civil War on Sunday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894787,CHECKED_OUT,000097,2018-03-12T10:01:06Z
+000402,The Janitor's Boy,"Clements, Andrew;  Selznick, Brian (ILT)",9780689850516,AVAILABLE,null,null
+000403,Cara the Camp Fairy,"Meadows, Daisy",9780545461702,CHECKED_OUT,000064,2018-04-03T15:12:02Z
+000404,The Dangerous Days of Daniel X,"Patterson, James;  Ledwidge, Michael (CON)",9780316143028,CHECKED_OUT,000006,2018-04-03T02:43:37Z
+000405,Percy Jackson's Greek Heroes,"Riordan, Rick;  Rocco, John (ILT)",9781484729380,AVAILABLE,null,null
+000406,Surviving the Applewhites,"Tolan, Stephanie S.",9780062213365,CHECKED_OUT,000013,2018-04-10T07:48:24Z
+000407,I Am Malala,"Yousafzai, Malala;  McCormick, Patricia (CON)",9780316327923,CHECKED_OUT,000031,2018-04-11T13:20:50Z
+000408,The Angel Experiment,"Patterson, James",9780316145275,CHECKED_OUT,000017,2018-03-22T16:27:18Z
+000409,Tales from a Not-so-glam TV Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442487680,AVAILABLE,null,null
+000410,Dawn of the Clans,"Hunter, Erin;  McLoughlin, Wayne;  Douglas, Allen (ILT)",9780062063656,AVAILABLE,null,null
+000411,Big Nate Goes for Broke,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107619,CHECKED_OUT,000018,2018-03-22T17:47:44Z
+000412,Junie B. Jones Is a Graduation Girl,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894411,AVAILABLE,null,null
+000413,Florence the Friendship Fairy,"Meadows, Daisy",9780545549417,AVAILABLE,null,null
+000414,Dingoes at Dinnertime,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894770,CHECKED_OUT,000017,2018-03-12T18:51:43Z
+000415,My Lady Jane,"Hand, Cynthia;  Ashton, Brodi;  Meadows, Jodi; Kellgren, Katherine (NAR)",9780062468123,AVAILABLE,null,null
+000416,Doll Bones,"Black, Holly;  Wheeler, Eliza (ILT)",9781442474871,AVAILABLE,null,null
+000417,Big Nate I Can't Take It!,"Peirce, Lincoln",9781449440565,AVAILABLE,null,null
+000418,The Sword of Summer,"Riordan, Rick",9781484719329,CHECKED_OUT,000054,2018-03-25T20:20:22Z
+000419,The Baby-sitters Club 3,"Martin, Ann M.;  Telgemeier, Raina (ILT)",9780545890663,AVAILABLE,null,null
+000420,The Hate U Give,"Thomas, Angie",9780062498557,CHECKED_OUT,000034,2018-04-22T22:17:25Z
+000421,The Remedy,"Young, Suzanne; Ross, Rebekkah (NAR)",9781442381773,LOST,null,null
+000422,Henry and the Paper Route,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972225,CHECKED_OUT,000006,2018-03-23T11:28:54Z
+000423,The Midnight War of Mateo Martinez,"Yardi, Robin",9781467795616,CHECKED_OUT,000003,2018-04-10T17:04:06Z
+000424,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,AVAILABLE,null,null
+000425,Big Nate I Can't Take It!,"Peirce, Lincoln",9781449440565,CHECKED_OUT,000067,2018-04-16T12:10:37Z
+000426,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,LOST,null,null
+000427,A Team Divided,"West, Tracey",9780545777759,CHECKED_OUT,000084,2018-03-14T17:49:46Z
+000428,Mistakes Were Made,"Pastis, Stephan",9780763687946,CHECKED_OUT,000076,2018-04-27T21:22:52Z
+000429,The 5th Wave,"Yancey, Rick; Espinoza, Brandon (NAR)",9781624068676,CHECKED_OUT,000029,2018-03-20T00:57:28Z
+000430,The Cheerleaders of Doom,"Buckley, Michael;  Beavers, Ethen (ILT)",9781613126424,CHECKED_OUT,000082,2018-03-25T08:05:14Z
+000431,Rain Reign,"Martin, Ann M.",9781250064233,CHECKED_OUT,000096,2018-03-30T04:14:29Z
+000432,Henry Huggins,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972232,AVAILABLE,null,null
+000433,Robots Rule the School,"Hopper, Ada;  Ricks, Sam (ILT)",9781481463140,AVAILABLE,null,null
+000434,"Ramona Quimby, Age 8","Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972348,LOST,null,null
+000435,Judy Moody and the Not Bummer Summer,"McDonald, Megan;  Reynolds, Peter (ILT)",9780763662233,AVAILABLE,null,null
+000436,Frank Einstein and the Brainturbo,"Scieszka, Jon;  Biggs, Brian (ILT)",9781613128299,CHECKED_OUT,000024,2018-04-27T21:01:44Z
+000437,Noodleheads See the Future,"Arnold, Tedd;  Hamilton, Martha;  Weiss, Mitch",9780823438099,AVAILABLE,null,null
+000438,Divergent,"Roth, Veronica;  Delort, Nicolas (PHT)",9780062077011,CHECKED_OUT,000060,2018-04-07T12:27:27Z
+000439,The Girl Games,"Holub, Joan;  Williams, Suzanne",9781442449343,LOST,null,null
+000440,Big Nate in a Class by Himself,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107589,CHECKED_OUT,000008,2018-04-10T06:17:08Z
+000441,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,CHECKED_OUT,000060,2018-03-12T03:05:21Z
+000442,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,CHECKED_OUT,000049,2018-03-16T01:18:32Z
+000443,Holocaust,"Phillips, Dee",9781630780098,AVAILABLE,null,null
+000444,Gretel Pushes Back,"Holub, Joan;  Williams, Suzanne",9780545945752,CHECKED_OUT,000054,2018-03-14T07:28:48Z
+000445,"Junie B., First Grader at Last!","Park, Barbara;  Brunkus, Denise (ILT)",9780375894428,CHECKED_OUT,000036,2018-03-21T15:04:46Z
+000446,The Landry News,"Clements, Andrew",9780689850523,CHECKED_OUT,000014,2018-03-14T23:23:16Z
+000447,Ms. Lagrange Is Strange!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973482,AVAILABLE,null,null
+000448,The Lost Hero,"Riordan, Rick",9781423145400,CHECKED_OUT,000071,2018-04-22T13:59:01Z
+000449,Ten,"McNeil, Gretchen",9780062118806,CHECKED_OUT,000051,2018-05-03T01:22:54Z
+000450,Catching Fire,"Collins, Suzanne",9780545227247,AVAILABLE,null,null
+000451,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,AVAILABLE,null,null
+000452,The Book of Storms,"Hatfield, Ruth;  Call, Greg (ILT)",9780805099997,CHECKED_OUT,000091,2018-05-06T05:29:56Z
+000453,"Junie B., First Grader at Last!","Park, Barbara;  Brunkus, Denise (ILT)",9780375894428,AVAILABLE,null,null
+000454,Piecing Me Together,"Watson, Renée",9781681191065,CHECKED_OUT,000082,2018-04-17T02:48:32Z
+000455,Legend of the Brown Ninja,"Rusu, Meredith",9781338090932,CHECKED_OUT,000085,2018-04-10T08:54:23Z
+000456,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,LOST,null,null
+000457,Play Ball!,"Dean, James;  Dean, James (ILT)",9780062110688,AVAILABLE,null,null
+000458,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,CHECKED_OUT,000008,2018-04-21T01:35:39Z
+000459,Nick and Tesla's Special Effects Spectacular,"Pflugfelder, Bob;  Hockensmith, Steve",9781594747809,AVAILABLE,null,null
+000460,Honus & Me,"Gutman, Dan",9780061973246,AVAILABLE,null,null
+000461,Thanksgiving on Thursday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894848,CHECKED_OUT,000076,2018-05-03T16:15:52Z
+000462,Miss Small Is Off the Wall!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973451,AVAILABLE,null,null
+000463,Florence the Friendship Fairy,"Meadows, Daisy",9780545549417,AVAILABLE,null,null
+000464,Angel,"Patterson, James",9780316185226,AVAILABLE,null,null
+000465,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,AVAILABLE,null,null
+000466,Garvey's Choice,"Grimes, Nikki",9781629797472,AVAILABLE,null,null
+000467,Six of Crows,"Bardugo, Leigh",9781627795227,AVAILABLE,null,null
+000468,Angel,"Patterson, James",9780316185226,AVAILABLE,null,null
+000469,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,CHECKED_OUT,000046,2018-04-08T05:51:07Z
+000470,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,CHECKED_OUT,000038,2018-04-23T05:16:20Z
+000471,The Landry News,"Clements, Andrew",9780689850523,AVAILABLE,null,null
+000472,Amelia Bedelia Means Business,"Parish, Herman;  Avril, Lynne (ILT)",9780062094988,AVAILABLE,null,null
+000473,Breakout,"West, Tracey",9780545848008,AVAILABLE,null,null
+000474,Pete's Big Lunch,"Dean, James;  Dean, James (ILT)",9780062110718,AVAILABLE,null,null
+000475,The Best Man,"Peck, Richard",9780698189737,AVAILABLE,null,null
+000476,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,CHECKED_OUT,000017,2018-04-22T02:41:23Z
+000477,The Chicken Squad,"Cronin, Doreen;  Cornell, Kevin (ILT)",9781442496781,AVAILABLE,null,null
+000478,My Life Is a Joke,"Patterson, James;  Grabenstein, Chris;  Kerascoet (ILT)",9780316438629,AVAILABLE,null,null
+000479,"Cole, Ninja of Earth","Farshtey, Greg",9780545765930,CHECKED_OUT,000086,2018-03-29T18:07:11Z
+000480,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,AVAILABLE,null,null
+000481,A Spark Unseen,"Cameron, Sharon",9780545578011,AVAILABLE,null,null
+000482,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,CHECKED_OUT,000050,2018-04-14T13:24:09Z
+000483,Tigers at Twilight,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894763,AVAILABLE,null,null
+000484,"Listen, Slowly","Lai, Thanhha",9780062229205,AVAILABLE,null,null
+000485,"Ramona Quimby, Age 8","Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972348,AVAILABLE,null,null
+000486,Lily's Crossing,"Giff, Patricia Reilly",9780385729932,AVAILABLE,null,null
+000487,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,CHECKED_OUT,000075,2018-05-03T12:25:12Z
+000488,Goldilocks Breaks in,"Holub, Joan;  Williams, Suzanne",9780545786782,AVAILABLE,null,null
+000489,Breaking Dawn,"Meyer, Stephenie; Kadushin, Ilyana (NAR)# Walters, Matt (NAR)",9780739367704,CHECKED_OUT,000046,2018-03-15T19:22:58Z
+000490,"Good Morning, Gorillas","Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894831,AVAILABLE,null,null
+000491,Rain Reign,"Martin, Ann M.",9781250064233,AVAILABLE,null,null
+000492,Piecing Me Together,"Watson, Renée",9781681191065,CHECKED_OUT,000080,2018-04-08T22:18:12Z
+000493,Tales from a Not-so-talented Pop Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442441231,AVAILABLE,null,null
+000494,Tales from a Not-so-friendly Frenemy,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781481479219,AVAILABLE,null,null
+000495,Detective Gordon,"Nilsson, Ulf;  Spee, Gitte (ILT)",9781776570645,AVAILABLE,null,null
+000496,Tales of the Great Beasts,"Mull, Brandon;  Eliopulos, Nick;  Merrell, Billy;  Brown, Gavin;  Seife, Emily",9780545695176,CHECKED_OUT,000003,2018-04-15T04:26:46Z
+000497,Hour of the Olympics,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894732,CHECKED_OUT,000082,2018-05-01T16:40:03Z
+000498,The Coldest Girl in Coldtown,"Black, Holly",9780316323635,CHECKED_OUT,000011,2018-03-19T02:32:07Z
+000499,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,CHECKED_OUT,000003,2018-04-07T10:16:38Z
+000500,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,LOST,null,null
+000501,Ted & Me,"Gutman, Dan",9780062102102,AVAILABLE,null,null
+000502,Disney at Dawn,"Pearson, Ridley;  Elwell, Tristan (ILT)",9781423141150,CHECKED_OUT,000069,2018-03-17T21:19:15Z
+000503,Timmy Failure,"Pastis, Stephan;  Pastis, Stephan (ILT)",9780763688776,CHECKED_OUT,000027,2018-04-01T11:11:19Z
+000504,The Year of Billy Miller,"Henkes, Kevin;  Henkes, Kevin (ILT)",9780062268150,AVAILABLE,null,null
+000505,Breaking Dawn,"Meyer, Stephenie; Kadushin, Ilyana (NAR)# Walters, Matt (NAR)",9780739367704,CHECKED_OUT,000043,2018-05-03T06:10:35Z
+000506,My Lady Jane,"Hand, Cynthia;  Ashton, Brodi;  Meadows, Jodi; Kellgren, Katherine (NAR)",9780062468123,CHECKED_OUT,000090,2018-04-08T07:17:01Z
+000507,Hundred Percent,"Young, Karen Romano",9781452143644,AVAILABLE,null,null
+000508,Ribsy,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972386,AVAILABLE,null,null
+000509,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,CHECKED_OUT,000042,2018-04-13T19:41:11Z
+000510,The Giver,"Lowry, Lois",9780547345901,CHECKED_OUT,000023,2018-03-20T06:27:11Z
+000511,Chasing the Prophecy,"Mull, Brandon",9781416998006,CHECKED_OUT,000087,2018-04-19T04:47:34Z
+000512,Judy Moody and the Not Bummer Summer,"McDonald, Megan;  Reynolds, Peter (ILT)",9780763662233,CHECKED_OUT,000051,2018-03-26T06:44:07Z
+000513,Crookedstar's Promise,"Hunter, Erin",9780062084620,AVAILABLE,null,null
+000514,The Sea of Monsters the Graphic Novel,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423194514,AVAILABLE,null,null
+000515,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,CHECKED_OUT,000034,2018-03-27T23:25:08Z
+000516,A Wrinkle in Time,"L'Engle, Madeleine",9781429915649,CHECKED_OUT,000038,2018-03-22T13:57:09Z
+000517,Smile,"Telgemeier, Raina;  Telgemeier, Raina (ILT)",9780545780018,AVAILABLE,null,null
+000518,Tales from a Not-so-talented Pop Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442441231,AVAILABLE,null,null
+000519,The Year of Billy Miller,"Henkes, Kevin;  Henkes, Kevin (ILT)",9780062268150,CHECKED_OUT,000004,2018-04-05T20:42:14Z
+000520,Tales from a Not-so-glam TV Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442487680,AVAILABLE,null,null
+000521,Angel,"Patterson, James",9780316185226,CHECKED_OUT,000010,2018-03-18T08:33:32Z
+000522,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,AVAILABLE,null,null
+000523,Cara the Camp Fairy,"Meadows, Daisy",9780545461702,CHECKED_OUT,000033,2018-03-13T14:59:38Z
+000524,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,LOST,null,null
+000525,Mr. Burke Is Berserk!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062101976,AVAILABLE,null,null
+000526,Unusual Creatures,"Hearst, Michael;  Noordeman, Jelmer (ILT)",9781452119854,CHECKED_OUT,000094,2018-03-22T14:49:49Z
+000527,Six of Crows,"Bardugo, Leigh",9781627795227,AVAILABLE,null,null
+000528,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,CHECKED_OUT,000046,2018-03-13T11:57:45Z
+000529,Big Nate a Good Old-fashioned Wedgie,"Peirce, Lincoln",9781449488147,AVAILABLE,null,null
+000530,The Janitor's Boy,"Clements, Andrew;  Selznick, Brian (ILT)",9780689850516,AVAILABLE,null,null
+000531,The Serpent's Shadow,"Riordan, Rick",9781423163275,CHECKED_OUT,000006,2018-03-23T02:02:48Z
+000532,Cinderella Stays Late,"Holub, Joan;  Williams, Suzanne",9780545633840,AVAILABLE,null,null
+000533,Red Riding Hood Gets Lost,"Holub, Joan;  Williams, Suzanne",9780545633857,LOST,null,null
+000534,Holocaust,"Phillips, Dee",9781630780098,LOST,null,null
+000535,Unusual Creatures,"Hearst, Michael;  Noordeman, Jelmer (ILT)",9781452119854,CHECKED_OUT,000042,2018-04-10T07:00:11Z
+000536,Amelia Bedelia Cleans Up,"Parish, Herman;  Avril, Lynne (ILT)",9780062334022,CHECKED_OUT,000094,2018-04-24T10:45:44Z
+000537,Miss Mary Is Scary!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062005717,AVAILABLE,null,null
+000538,The First Rule of Punk,"Pérez, Celia C.",9780425290415,CHECKED_OUT,000075,2018-04-13T07:57:37Z
+000539,Winter,"Meyer, Marissa; Soler, Rebecca (NAR)",9781427276117,AVAILABLE,null,null
+000540,Garvey's Choice,"Grimes, Nikki",9781629797472,CHECKED_OUT,000060,2018-05-04T02:40:55Z
+000541,The Hate U Give,"Thomas, Angie",9780062498557,AVAILABLE,null,null
+000542,The Importance of Being Earnest,"Wilde, Oscar",9780486110189,AVAILABLE,null,null
+000543,Red Riding Hood Gets Lost,"Holub, Joan;  Williams, Suzanne",9780545633857,CHECKED_OUT,000063,2018-03-14T02:15:15Z
+000544,The Homework Machine,"Gutman, Dan",9781442407091,LOST,null,null
+000545,Bad Kitty Takes the Test,"Bruel, Nick",9781250150141,CHECKED_OUT,000079,2018-03-27T08:43:51Z
+000546,Ray & Me,"Gutman, Dan",9780061973543,AVAILABLE,null,null
+000547,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,CHECKED_OUT,000036,2018-04-18T02:12:13Z
+000548,Clementine's Letter,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198628,AVAILABLE,null,null
+000549,I Am Malala,"Yousafzai, Malala;  McCormick, Patricia (CON)",9780316327923,CHECKED_OUT,000096,2018-03-15T00:14:43Z
+000550,Dawn of the Clans,"Hunter, Erin;  McLoughlin, Wayne;  Douglas, Allen (ILT)",9780062063656,LOST,null,null
+000551,Forest of Wonders,"Park, Linda Sue;  Madsen, Jim (ILT)",9780062327406,AVAILABLE,null,null
+000552,Jacky Ha-ha,"Patterson, James;  Grabenstein, Chris",9780316303002,CHECKED_OUT,000092,2018-03-28T22:35:01Z
+000553,Out of Remote Control,"Hopper, Ada;  Ross, Graham (ILT)",9781481491938,CHECKED_OUT,000040,2018-03-12T18:38:12Z
+000554,Red Riding Hood Gets Lost,"Holub, Joan;  Williams, Suzanne",9780545633857,CHECKED_OUT,000021,2018-04-19T08:04:14Z
+000555,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,AVAILABLE,null,null
+000556,Cinderella Stays Late,"Holub, Joan;  Williams, Suzanne",9780545633840,CHECKED_OUT,000085,2018-03-13T15:11:26Z
+000557,Big Nate Here Goes Nothing,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086976,AVAILABLE,null,null
+000558,Timmy Failure,"Pastis, Stephan;  Pastis, Stephan (ILT)",9780763688776,CHECKED_OUT,000069,2018-03-23T21:11:42Z
+000559,Sphere,"Crichton, Michael",9780307816481,LOST,null,null
+000560,"Clementine, Friend of the Week","Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198635,AVAILABLE,null,null
+000561,Winter,"Meyer, Marissa; Soler, Rebecca (NAR)",9781427276117,AVAILABLE,null,null
+000562,Sphere,"Crichton, Michael",9780307816481,LOST,null,null
+000563,Ray & Me,"Gutman, Dan",9780061973543,CHECKED_OUT,000007,2018-05-06T06:49:10Z
+000564,The Homework Machine,"Gutman, Dan",9781442407091,CHECKED_OUT,000064,2018-05-02T02:21:30Z
+000565,Ten,"McNeil, Gretchen",9780062118806,AVAILABLE,null,null
+000566,"Junie B., First Grader at Last!","Park, Barbara;  Brunkus, Denise (ILT)",9780375894428,AVAILABLE,null,null
+000567,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,CHECKED_OUT,000005,2018-03-20T14:56:32Z
+000568,Piecing Me Together,"Watson, Renée",9781681191065,AVAILABLE,null,null
+000569,The Angel Experiment,"Patterson, James",9780316145275,AVAILABLE,null,null
+000570,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,CHECKED_OUT,000083,2018-04-07T00:12:13Z
+000571,The Evolution of Calpurnia Tate,"Kelly, Jacqueline",9781429993074,AVAILABLE,null,null
+000572,Rules,"Lord, Cynthia",9780545666206,CHECKED_OUT,000059,2018-05-01T09:08:57Z
+000573,Noodleheads See the Future,"Arnold, Tedd;  Hamilton, Martha;  Weiss, Mitch",9780823438099,CHECKED_OUT,000093,2018-04-26T02:52:10Z
+000574,The Death Cure,"Dashner, James",9780375896125,LOST,null,null
+000575,"Listen, Slowly","Lai, Thanhha",9780062229205,CHECKED_OUT,000064,2018-04-13T03:30:04Z
+000576,The Angel Experiment,"Patterson, James",9780316145275,CHECKED_OUT,000020,2018-03-16T21:14:39Z
+000577,Tigers at Twilight,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894763,AVAILABLE,null,null
+000578,"Happy Birthday, Bad Kitty","Bruel, Nick;  Bruel, Nick (ILT)",9781429994392,CHECKED_OUT,000082,2018-03-29T20:51:12Z
+000579,The Notebook,"Sparks, Nicholas",9780446596190,CHECKED_OUT,000038,2018-04-17T05:57:08Z
+000580,Big Nate from the Top,"Peirce, Lincoln",9781449410292,CHECKED_OUT,000069,2018-05-08T00:48:40Z
+000581,Nick and Tesla's Special Effects Spectacular,"Pflugfelder, Bob;  Hockensmith, Steve",9781594747809,LOST,null,null
+000582,Hamlet,"Shakespeare, William",9781775412793,AVAILABLE,null,null
+000583,Big Nate from the Top,"Peirce, Lincoln",9781449410292,LOST,null,null
+000584,Annabel,"Oliver, Lauren",9780062237385,AVAILABLE,null,null
+000585,Immortal Guardians,"Schrefer, Eliot",9780545830010,AVAILABLE,null,null
+000586,Red Queen,"Aveyard, Victoria; Dolan, Amanda (NAR)",9780062346513,AVAILABLE,null,null
+000587,Cassandra the Lucky,"Williams, Suzanne;  Holub, Joan",9781442488199,AVAILABLE,null,null
+000588,Henry and the Paper Route,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972225,AVAILABLE,null,null
+000589,Nick and Tesla's Special Effects Spectacular,"Pflugfelder, Bob;  Hockensmith, Steve",9781594747809,AVAILABLE,null,null
+000590,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,CHECKED_OUT,000054,2018-04-30T06:22:02Z
+000591,Ramona the Brave,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972355,CHECKED_OUT,000034,2018-04-09T22:46:16Z
+000592,Legend of the Brown Ninja,"Rusu, Meredith",9781338090932,LOST,null,null
+000593,Othello,"Shakespeare, William",9781775412144,AVAILABLE,null,null
+000594,Escape to Australia,"Patterson, James;  Chatterton, Martin (CON)# Griffo, Daniel (ILT)",9780316434072,AVAILABLE,null,null
+000595,Catching Fire,"Collins, Suzanne",9780545227247,CHECKED_OUT,000044,2018-05-08T02:52:59Z
+000596,Bad Kitty Takes the Test,"Bruel, Nick",9781250150141,CHECKED_OUT,000081,2018-03-14T17:19:07Z
+000597,Florence the Friendship Fairy,"Meadows, Daisy",9780545549417,AVAILABLE,null,null
+000598,Florence the Friendship Fairy,"Meadows, Daisy",9780545549417,AVAILABLE,null,null
+000599,Mrs. Roopy Is Loopy!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973437,CHECKED_OUT,000077,2018-04-28T21:03:59Z
+000600,Bad Kitty Takes the Test,"Bruel, Nick",9781250150141,CHECKED_OUT,000046,2018-04-08T01:48:51Z
+000601,Rain Reign,"Martin, Ann M.",9781250064233,AVAILABLE,null,null
+000602,Annabel,"Oliver, Lauren",9780062237385,AVAILABLE,null,null
+000603,Jinx,"Blackwood, Sage",9780062129925,CHECKED_OUT,000000,2018-04-12T02:44:50Z
+000604,Mistakes Were Made,"Pastis, Stephan",9780763687946,LOST,null,null
+000605,Frank Einstein and the Brainturbo,"Scieszka, Jon;  Biggs, Brian (ILT)",9781613128299,CHECKED_OUT,000002,2018-04-01T10:06:07Z
+000606,Cassandra the Lucky,"Williams, Suzanne;  Holub, Joan",9781442488199,LOST,null,null
+000607,Cinderella Stays Late,"Holub, Joan;  Williams, Suzanne",9780545633840,CHECKED_OUT,000011,2018-04-17T10:54:22Z
+000608,We Were Liars,"Lockhart, E.; Meyers, Ariadne (NAR)",9780804168427,AVAILABLE,null,null
+000609,Robots Rule the School,"Hopper, Ada;  Ricks, Sam (ILT)",9781481463140,CHECKED_OUT,000085,2018-03-14T09:01:15Z
+000610,Word of Mouse,"Patterson, James;  Grabenstein, Chris;  Sutphin, Joe (ILT)",9780316317566,CHECKED_OUT,000010,2018-03-14T10:16:23Z
+000611,Jedi Academy,"Brown, Jeffrey;  Brown, Jeffrey (ILT)",9780545535502,CHECKED_OUT,000057,2018-04-10T21:50:01Z
+000612,My Lady Jane,"Hand, Cynthia;  Ashton, Brodi;  Meadows, Jodi; Kellgren, Katherine (NAR)",9780062468123,CHECKED_OUT,000000,2018-05-05T07:15:50Z
+000613,The Baby-sitters Club 3,"Martin, Ann M.;  Telgemeier, Raina (ILT)",9780545890663,AVAILABLE,null,null
+000614,Captain Underpants and the Perilous Plot of Professor Poopypants,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627979,CHECKED_OUT,000008,2018-04-19T17:28:13Z
+000615,Honus & Me,"Gutman, Dan",9780061973246,CHECKED_OUT,000070,2018-03-30T02:06:21Z
+000616,Cassandra the Lucky,"Williams, Suzanne;  Holub, Joan",9781442488199,CHECKED_OUT,000026,2018-04-14T04:42:34Z
+000617,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,CHECKED_OUT,000002,2018-05-02T15:33:50Z
+000618,Gabriella the Snow Kingdom Fairy,"Meadows, Daisy",9780545286893,CHECKED_OUT,000069,2018-04-23T05:13:11Z
+000619,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,LOST,null,null
+000620,Old School,"Kinney, Jeff",9781613128275,CHECKED_OUT,000001,2018-04-07T05:57:02Z
+000621,Phoebe and Her Unicorn in the Magic Storm,"Simpson, Dana",9781449488758,CHECKED_OUT,000093,2018-05-03T19:10:04Z
+000622,The First Rule of Punk,"Pérez, Celia C.",9780425290415,AVAILABLE,null,null
+000623,Cassandra the Lucky,"Williams, Suzanne;  Holub, Joan",9781442488199,AVAILABLE,null,null
+000624,Big Nate Say Good-bye to Dork City,"Peirce, Lincoln",9781449469818,CHECKED_OUT,000029,2018-04-28T19:42:42Z
+000625,Annabel,"Oliver, Lauren",9780062237385,CHECKED_OUT,000077,2018-04-08T23:10:31Z
+000626,Red Queen,"Aveyard, Victoria; Dolan, Amanda (NAR)",9780062346513,CHECKED_OUT,000026,2018-04-04T15:40:08Z
+000627,"Anna, Banana, and the Little Lost Kitten","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481486712,AVAILABLE,null,null
+000628,Ms. Coco Is Loco!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973369,CHECKED_OUT,000001,2018-04-07T08:01:44Z
+000629,Gabriella the Snow Kingdom Fairy,"Meadows, Daisy",9780545286893,AVAILABLE,null,null
+000630,Cheater Pants,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894459,AVAILABLE,null,null
+000631,The Get Rich Quick Club,"Gutman, Dan",9780061973239,CHECKED_OUT,000004,2018-04-13T05:47:16Z
+000632,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,AVAILABLE,null,null
+000633,Lily's Crossing,"Giff, Patricia Reilly",9780385729932,AVAILABLE,null,null
+000634,Winter's No Time to Sleep!,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481442015,AVAILABLE,null,null
+000635,Pete's Big Lunch,"Dean, James;  Dean, James (ILT)",9780062110718,CHECKED_OUT,000099,2018-03-27T17:05:13Z
+000636,Junie B. Jones Is Captain Field Day,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894404,AVAILABLE,null,null
+000637,The Knight at Dawn,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780449818244,CHECKED_OUT,000087,2018-03-17T20:01:32Z
+000638,Winter's No Time to Sleep!,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481442015,AVAILABLE,null,null
+000639,Otherwise Known As Sheila the Great,"Blume, Judy",9781101564080,AVAILABLE,null,null
+000640,My Life Is a Joke,"Patterson, James;  Grabenstein, Chris;  Kerascoet (ILT)",9780316438629,AVAILABLE,null,null
+000641,Surviving the Applewhites,"Tolan, Stephanie S.",9780062213365,CHECKED_OUT,000048,2018-03-26T03:49:29Z
+000642,Winter's No Time to Sleep!,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481442015,AVAILABLE,null,null
+000643,Kingdom Keepers New Series I,"Pearson, Ridley",9781484719381,CHECKED_OUT,000023,2018-04-03T12:28:30Z
+000644,Mistakes Were Made,"Pastis, Stephan",9780763687946,CHECKED_OUT,000033,2018-03-25T21:31:11Z
+000645,Old School,"Kinney, Jeff",9781613128275,CHECKED_OUT,000075,2018-05-01T12:31:28Z
+000646,Afternoon on the Amazon,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894237,CHECKED_OUT,000007,2018-04-08T19:57:10Z
+000647,Disney at Dawn,"Pearson, Ridley;  Elwell, Tristan (ILT)",9781423141150,LOST,null,null
+000648,The Coldest Girl in Coldtown,"Black, Holly",9780316323635,AVAILABLE,null,null
+000649,Sphere,"Crichton, Michael",9780307816481,CHECKED_OUT,000036,2018-04-10T17:29:19Z
+000650,A Pet for Fly Guy,"Arnold, Tedd",9780545694513,AVAILABLE,null,null
+000651,Henry and the Paper Route,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972225,AVAILABLE,null,null
+000652,Keira the Movie Star Fairy,"Meadows, Daisy",9780545549554,AVAILABLE,null,null
+000653,Brave New World,"Huxley, Aldous",9780062368232,CHECKED_OUT,000007,2018-04-29T05:10:18Z
+000654,Winter's No Time to Sleep!,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481442015,CHECKED_OUT,000031,2018-03-14T10:15:51Z
+000655,Ms. Coco Is Loco!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973369,CHECKED_OUT,000074,2018-05-04T12:36:56Z
+000656,Word of Mouse,"Patterson, James;  Grabenstein, Chris;  Sutphin, Joe (ILT)",9780316317566,AVAILABLE,null,null
+000657,Goldilocks Breaks in,"Holub, Joan;  Williams, Suzanne",9780545786782,AVAILABLE,null,null
+000658,Kaffir Boy,"Mathabane, Mark; Mathabane, Mark (NAR)",9781483076898,CHECKED_OUT,000086,2018-03-28T21:33:49Z
+000659,Ms. Lagrange Is Strange!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973482,CHECKED_OUT,000071,2018-04-20T20:17:13Z
+000660,Serafina's Promise,"Burg, Ann E.",9780545549943,AVAILABLE,null,null
+000661,Captain Underpants and the Perilous Plot of Professor Poopypants,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627979,CHECKED_OUT,000073,2018-04-04T15:08:50Z
+000662,Six of Crows,"Bardugo, Leigh",9781627795227,CHECKED_OUT,000053,2018-03-24T07:00:53Z
+000663,Tales from a Not-so-glam TV Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442487680,AVAILABLE,null,null
+000664,The Apprentice's Quest,"Hunter, Erin",9780062386403,AVAILABLE,null,null
+000665,Big Nate What Could Possibly Go Wrong?,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086952,CHECKED_OUT,000078,2018-03-16T04:22:42Z
+000666,The Lightning Thief,"Riordan, Rick;  Venditti, Robert;  Futaki, Attila (ILT)",9781423147343,LOST,null,null
+000667,Into the Wild,"Hunter, Erin;  Stevenson, Dave (ILT)",9780061757310,AVAILABLE,null,null
+000668,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,CHECKED_OUT,000066,2018-04-04T21:56:46Z
+000669,Mistakes Were Made,"Pastis, Stephan",9780763687946,CHECKED_OUT,000073,2018-05-03T13:23:28Z
+000670,Aloha-ha-ha!,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894480,AVAILABLE,null,null
+000671,Henry V,"Shakespeare, William",9780486111940,CHECKED_OUT,000017,2018-05-05T21:14:11Z
+000672,Depths of Madness,"de Bie, Erik Scott",9780786956746,CHECKED_OUT,000089,2018-04-27T16:15:40Z
+000673,Doll Bones,"Black, Holly;  Wheeler, Eliza (ILT)",9781442474871,CHECKED_OUT,000072,2018-03-14T14:17:26Z
+000674,Jedi Academy,"Brown, Jeffrey;  Brown, Jeffrey (ILT)",9780545535502,AVAILABLE,null,null
+000675,From the Mixed-up Files of Mrs. Basil E. Frankweiler,"Konigsburg, E. L.;  Konigsburg, E. L. (ILT)",9781442431263,CHECKED_OUT,000030,2018-04-09T21:20:08Z
+000676,Ray & Me,"Gutman, Dan",9780061973543,AVAILABLE,null,null
+000677,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,AVAILABLE,null,null
+000678,Queen of Shadows,"Maas, Sarah J.",9781619636057,AVAILABLE,null,null
+000679,The Angel Experiment,"Patterson, James",9780316145275,CHECKED_OUT,000056,2018-04-15T12:52:22Z
+000680,Jedi Academy,"Brown, Jeffrey;  Brown, Jeffrey (ILT)",9780545535502,AVAILABLE,null,null
+000681,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,LOST,null,null
+000682,Clementine and the Family Meeting,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423198604,AVAILABLE,null,null
+000683,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,CHECKED_OUT,000048,2018-04-19T20:46:23Z
+000684,Captain Underpants and the Preposterous Plight of the Purple Potty People,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627986,AVAILABLE,null,null
+000685,Big Nate What Could Possibly Go Wrong?,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086952,CHECKED_OUT,000084,2018-04-11T06:23:19Z
+000686,Jacky Ha-ha,"Patterson, James;  Grabenstein, Chris",9780316303002,AVAILABLE,null,null
+000687,Big Nate Goes for Broke,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107619,CHECKED_OUT,000073,2018-04-21T12:55:25Z
+000688,"Happy Birthday, Bad Kitty","Bruel, Nick;  Bruel, Nick (ILT)",9781429994392,CHECKED_OUT,000031,2018-05-08T02:24:03Z
+000689,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,CHECKED_OUT,000052,2018-04-02T22:15:14Z
+000690,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,AVAILABLE,null,null
+000691,Emily Windsnap and the Monster from the Deep,"Kessler, Liz;  Gibb, Sarah (ILT)",9780763652418,AVAILABLE,null,null
+000692,Amelia Bedelia Cleans Up,"Parish, Herman;  Avril, Lynne (ILT)",9780062334022,AVAILABLE,null,null
+000693,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,CHECKED_OUT,000064,2018-04-04T14:18:56Z
+000694,Mrs. Cooney Is Loony!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973475,AVAILABLE,null,null
+000695,The Death Cure,"Dashner, James",9780375896125,AVAILABLE,null,null
+000696,Immortal Guardians,"Schrefer, Eliot",9780545830010,CHECKED_OUT,000031,2018-04-29T21:27:24Z
+000697,Doll Bones,"Black, Holly;  Wheeler, Eliza (ILT)",9781442474871,CHECKED_OUT,000064,2018-05-04T07:18:50Z
+000698,The Fire,"Patterson, James;  Dembowski, Jill",9780316194655,CHECKED_OUT,000034,2018-05-04T00:15:54Z
+000699,"Listen, Slowly","Lai, Thanhha",9780062229205,AVAILABLE,null,null
+000700,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,AVAILABLE,null,null
+000701,Othello,"Shakespeare, William",9781775412144,CHECKED_OUT,000005,2018-04-10T20:09:56Z
+000702,A Single Shard,"Park, Linda Sue",9780547350042,CHECKED_OUT,000009,2018-03-13T01:49:36Z
+000703,The Making of a Navy Seal,"Webb, Brandon;  Luttrell, Marcus (FRW)# Mann, John David",9781466878334,AVAILABLE,null,null
+000704,Thanksgiving on Thursday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894848,CHECKED_OUT,000098,2018-05-01T14:28:03Z
+000705,The Best Man,"Peck, Richard",9780698189737,CHECKED_OUT,000020,2018-03-16T05:57:58Z
+000706,Three Little Words,"Harvey, Sarah N.",9781459800670,LOST,null,null
+000707,Crossed,"Condie, Allyson Braithwaite; Riccobono, Jack (NAR)# Simses, Kate (NAR)",9781101978795,AVAILABLE,null,null
+000708,Word of Mouse,"Patterson, James;  Grabenstein, Chris;  Sutphin, Joe (ILT)",9780316317566,CHECKED_OUT,000076,2018-03-29T15:42:12Z
+000709,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,AVAILABLE,null,null
+000710,You Only Die Twice,"Gutman, Dan",9780062202840,CHECKED_OUT,000095,2018-03-22T11:20:41Z
+000711,Divergent,"Roth, Veronica;  Delort, Nicolas (PHT)",9780062077011,AVAILABLE,null,null
+000712,Catching Fire,"Collins, Suzanne",9780545227247,AVAILABLE,null,null
+000713,Big Nate on a Roll,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062107626,CHECKED_OUT,000090,2018-04-23T09:05:26Z
+000714,Cinder,"Meyer, Marissa; Soler, Rebecca (NAR)",9781427223081,AVAILABLE,null,null
+000715,Night Whispers,"Hunter, Erin;  Richardson, Owen (ILT)# Douglas, Allen (ILT)",9780062025173,AVAILABLE,null,null
+000716,A Thousand Pieces of You,"Gray, Claudia",9780062278982,CHECKED_OUT,000058,2018-04-28T01:07:41Z
+000717,Bridge to Terabithia,"Paterson, Katherine;  Diamond, Donna (ILT)",9780061975165,LOST,null,null
+000718,Ender's Game,"Card, Orson Scott; Rudnicki, Stefan (NAR)# Ellison, Harlan (NAR)# De Cuir, Gabrielle (NAR)# Various (NAR)",9781427220585,AVAILABLE,null,null
+000719,The Hate U Give,"Thomas, Angie",9780062498557,CHECKED_OUT,000036,2018-04-10T08:01:50Z
+000720,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,CHECKED_OUT,000062,2018-03-17T01:18:30Z
+000721,The Chicken Squad,"Cronin, Doreen;  Cornell, Kevin (ILT)",9781442496781,LOST,null,null
+000722,Pax,"Pennypacker, Sara;  Klassen, Jon (ILT)",9780062377036,CHECKED_OUT,000037,2018-04-18T11:54:56Z
+000723,Life As We Knew It,"Pfeffer, Susan Beth; Bauer, Emily (NAR)",9780739348109,AVAILABLE,null,null
+000724,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,CHECKED_OUT,000074,2018-04-15T06:49:37Z
+000725,The Maple Festival,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481441988,AVAILABLE,null,null
+000726,"Hello, Universe","Kelly, Erin Entrada;  Roxas, Isabel (ILT)",9780062414175,CHECKED_OUT,000057,2018-04-18T04:32:19Z
+000727,Into the Wild,"Hunter, Erin;  Stevenson, Dave (ILT)",9780061757310,AVAILABLE,null,null
+000728,Breakout,"West, Tracey",9780545848008,CHECKED_OUT,000010,2018-04-05T02:34:30Z
+000729,The Girl in the Steel Corset,"Cross, Kady",9781459205383,AVAILABLE,null,null
+000730,Pete's Big Lunch,"Dean, James;  Dean, James (ILT)",9780062110718,CHECKED_OUT,000095,2018-04-02T05:00:29Z
+000731,Archie's Alien Disguise,"Mass, Wendy;  Brawer, Michael",9780316243353,AVAILABLE,null,null
+000732,Thanksgiving on Thursday,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894848,AVAILABLE,null,null
+000733,Depths of Madness,"de Bie, Erik Scott",9780786956746,CHECKED_OUT,000010,2018-04-29T02:49:38Z
+000734,Carly the School Fairy,"Meadows, Daisy",9780545723152,CHECKED_OUT,000094,2018-03-13T01:39:11Z
+000735,Othello,"Shakespeare, William",9781775412144,LOST,null,null
+000736,Judy Moody and the Not Bummer Summer,"McDonald, Megan;  Reynolds, Peter (ILT)",9780763662233,LOST,null,null
+000737,The Fire,"Patterson, James;  Dembowski, Jill",9780316194655,CHECKED_OUT,000074,2018-04-28T14:45:14Z
+000738,Dingoes at Dinnertime,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894770,AVAILABLE,null,null
+000739,A Wrinkle in Time,"L'Engle, Madeleine",9781429915649,AVAILABLE,null,null
+000740,Mrs. Lane Is a Pain!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062198495,CHECKED_OUT,000086,2018-04-22T22:34:39Z
+000741,Return of the Padawan,"Brown, Jeffrey",9780545666435,CHECKED_OUT,000032,2018-04-28T04:03:41Z
+000742,Cinder,"Meyer, Marissa; Soler, Rebecca (NAR)",9781427223081,AVAILABLE,null,null
+000743,Tales from a Not-so-glam TV Star,"Russell, Rachel Renee;  Russell, Rachel Renee (ILT)",9781442487680,CHECKED_OUT,000014,2018-04-18T14:09:36Z
+000744,Mrs. Cooney Is Loony!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973475,AVAILABLE,null,null
+000745,Henry Huggins,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972232,AVAILABLE,null,null
+000746,Catching Fire,"Collins, Suzanne",9780545227247,AVAILABLE,null,null
+000747,"It's Raining, It's Pouring","Green, Poppy;  Bell, Jennifer A. (ILT)",9781481485913,AVAILABLE,null,null
+000748,Depths of Madness,"de Bie, Erik Scott",9780786956746,AVAILABLE,null,null
+000749,Bad Kitty Vs Uncle Murray,"Bruel, Nick;  Bruel, Nick (ILT)",9781429991803,LOST,null,null
+000750,The 5th Wave,"Yancey, Rick; Espinoza, Brandon (NAR)",9781624068676,CHECKED_OUT,000038,2018-03-13T15:46:01Z
+000751,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,AVAILABLE,null,null
+000752,Snow White Lucks Out,"Holub, Joan;  Williams, Suzanne",9780545662833,CHECKED_OUT,000022,2018-03-30T07:46:14Z
+000753,Creating the Constitution 1787,"Collier, James Lincoln;  Collier, Christopher",9781620645017,CHECKED_OUT,000014,2018-05-04T14:52:42Z
+000754,Robots Rule the School,"Hopper, Ada;  Ricks, Sam (ILT)",9781481463140,CHECKED_OUT,000025,2018-03-26T11:22:50Z
+000755,Captain Underpants and the Perilous Plot of Professor Poopypants,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627979,AVAILABLE,null,null
+000756,The Best Man,"Peck, Richard",9780698189737,AVAILABLE,null,null
+000757,Water Wars,"Stracher, Cameron",9781402267611,AVAILABLE,null,null
+000758,Frank Einstein and the Brainturbo,"Scieszka, Jon;  Biggs, Brian (ILT)",9781613128299,AVAILABLE,null,null
+000759,Hundred Percent,"Young, Karen Romano",9781452143644,LOST,null,null
+000760,"Zane, Ninja of Ice","Farshtey, Greg;  Scholastic Inc. (COR)",9780545765985,AVAILABLE,null,null
+000761,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,CHECKED_OUT,000016,2018-04-01T05:27:43Z
+000762,Ophelia and the Marvelous Boy,"Foxlee, Karen",9780385753579,AVAILABLE,null,null
+000763,Cassandra the Lucky,"Williams, Suzanne;  Holub, Joan",9781442488199,CHECKED_OUT,000013,2018-04-25T00:58:37Z
+000764,First Love,"Patterson, James;  Raymond, Emily",9780316242332,AVAILABLE,null,null
+000765,Miss Kraft Is Daft!,"Gutman, Dan;  Paillot, Jim",9780062042170,AVAILABLE,null,null
+000766,Murder Is Bad Manners,"Stevens, Robin",9781481422147,AVAILABLE,null,null
+000767,Phoebe and Her Unicorn,"Simpson, Dana",9781449461317,AVAILABLE,null,null
+000768,Ms. Lagrange Is Strange!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973482,AVAILABLE,null,null
+000769,Florence the Friendship Fairy,"Meadows, Daisy",9780545549417,AVAILABLE,null,null
+000770,Garvey's Choice,"Grimes, Nikki",9781629797472,CHECKED_OUT,000000,2018-04-14T22:07:52Z
+000771,The Phantom Bully,"Brown, Jeffrey",9780545666442,AVAILABLE,null,null
+000772,The First Rule of Punk,"Pérez, Celia C.",9780425290415,CHECKED_OUT,000085,2018-04-04T11:28:19Z
+000773,Ten,"McNeil, Gretchen",9780062118806,LOST,null,null
+000774,Henry and the Paper Route,"Cleary, Beverly;  Rogers, Jacqueline (ILT)",9780061972225,AVAILABLE,null,null
+000775,The Hate U Give,"Thomas, Angie",9780062498557,CHECKED_OUT,000053,2018-03-30T10:49:24Z
+000776,Eclipse,"Meyer, Stephenie",9780316137782,AVAILABLE,null,null
+000777,Surviving the Applewhites,"Tolan, Stephanie S.",9780062213365,CHECKED_OUT,000026,2018-03-21T18:06:06Z
+000778,I Am Malala,"Yousafzai, Malala;  McCormick, Patricia (CON)",9780316327923,AVAILABLE,null,null
+000779,Amelia Bedelia Means Business,"Parish, Herman;  Avril, Lynne (ILT)",9780062094988,AVAILABLE,null,null
+000780,The Talented Clementine,"Pennypacker, Sara;  Frazee, Marla (ILT)",9781423141433,CHECKED_OUT,000090,2018-05-06T03:54:02Z
+000781,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,AVAILABLE,null,null
+000782,Angel,"Patterson, James",9780316185226,CHECKED_OUT,000007,2018-04-29T14:34:00Z
+000783,Bad Kitty Takes the Test,"Bruel, Nick",9781250150141,AVAILABLE,null,null
+000784,Rules,"Lord, Cynthia",9780545666206,AVAILABLE,null,null
+000785,The Importance of Being Earnest,"Wilde, Oscar",9780486110189,AVAILABLE,null,null
+000786,Jedi Academy,"Brown, Jeffrey;  Brown, Jeffrey (ILT)",9780545535502,CHECKED_OUT,000048,2018-03-31T01:25:22Z
+000787,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,AVAILABLE,null,null
+000788,Ms. Lagrange Is Strange!,"Gutman, Dan;  Paillot, Jim (ILT)",9780061973482,AVAILABLE,null,null
+000789,Warriors: Tigerclaw's Fury,"Hunter, Erin",9780062287557,AVAILABLE,null,null
+000790,Crown,"Barnes, Derrick D.;  James, Gordon C. (ILT)",9781572848085,CHECKED_OUT,000031,2018-04-26T01:28:25Z
+000791,Mistakes Were Made,"Pastis, Stephan",9780763687946,AVAILABLE,null,null
+000792,Gretel Pushes Back,"Holub, Joan;  Williams, Suzanne",9780545945752,CHECKED_OUT,000001,2018-03-28T14:29:40Z
+000793,The Last Olympian,"Riordan, Rick",9781423131991,CHECKED_OUT,000091,2018-04-12T21:10:42Z
+000794,The Angel Experiment,"Patterson, James",9780316145275,CHECKED_OUT,000087,2018-03-13T08:12:43Z
+000795,Goldilocks Breaks in,"Holub, Joan;  Williams, Suzanne",9780545786782,AVAILABLE,null,null
+000796,Al Capone Does My Shirts,"Choldenko, Gennifer",9781440629631,LOST,null,null
+000797,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,CHECKED_OUT,000017,2018-04-26T00:12:10Z
+000798,Crookedstar's Promise,"Hunter, Erin",9780062084620,AVAILABLE,null,null
+000799,Breaking Dawn,"Meyer, Stephenie; Kadushin, Ilyana (NAR)# Walters, Matt (NAR)",9780739367704,CHECKED_OUT,000067,2018-04-24T19:24:29Z
+000800,Escape to Australia,"Patterson, James;  Chatterton, Martin (CON)# Griffo, Daniel (ILT)",9780316434072,AVAILABLE,null,null
+000801,The Last Olympian,"Riordan, Rick",9781423131991,AVAILABLE,null,null
+000802,Mrs. Meyer Is on Fire!,"Gutman, Dan;  Paillot, Jim (ILT)",9780062284310,AVAILABLE,null,null
+000803,Beach Party Surf Monkey,"Grabenstein, Chris",9780553536126,CHECKED_OUT,000054,2018-03-25T06:46:57Z
+000804,The Giver,"Lowry, Lois",9780547345901,CHECKED_OUT,000010,2018-04-19T13:59:49Z
+000805,The Year of Billy Miller,"Henkes, Kevin;  Henkes, Kevin (ILT)",9780062268150,CHECKED_OUT,000095,2018-04-12T13:53:52Z
+000806,Captain Underpants and the Revolting Revenge of the Radioactive Robo-boxers,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545628006,CHECKED_OUT,000060,2018-03-16T05:35:14Z
+000807,Amelia Bedelia Road Trip!,"Parish, Herman;  Avril, Lynne (ILT)",9780062095053,CHECKED_OUT,000027,2018-04-26T19:37:31Z
+000808,The Third Wheel,"Kinney, Jeff",9781613124505,AVAILABLE,null,null
+000809,Piecing Me Together,"Watson, Renée",9781681191065,AVAILABLE,null,null
+000810,Amelia Bedelia Cleans Up,"Parish, Herman;  Avril, Lynne (ILT)",9780062334022,CHECKED_OUT,000045,2018-04-16T17:33:21Z
+000811,Chasing the Prophecy,"Mull, Brandon",9781416998006,AVAILABLE,null,null
+000812,Ted & Me,"Gutman, Dan",9780062102102,AVAILABLE,null,null
+000813,Jinx,"Blackwood, Sage",9780062129925,AVAILABLE,null,null
+000814,Legend of the Brown Ninja,"Rusu, Meredith",9781338090932,CHECKED_OUT,000015,2018-04-08T23:10:11Z
+000815,Play Ball!,"Dean, James;  Dean, James (ILT)",9780062110688,AVAILABLE,null,null
+000816,The Lost Hero,"Riordan, Rick",9781423145400,AVAILABLE,null,null
+000817,Natalie the Christmas Stocking Fairy,"Meadows, Daisy",9780545725637,AVAILABLE,null,null
+000818,The Knight at Dawn,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780449818244,AVAILABLE,null,null
+000819,Rules,"Lord, Cynthia",9780545666206,AVAILABLE,null,null
+000820,Big Nate What Could Possibly Go Wrong?,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086952,AVAILABLE,null,null
+000821,"Anna, Banana, and the Monkey in the Middle","Rissi, Anica Mrose;  Park, Meg (ILT)",9781481416108,AVAILABLE,null,null
+000822,Big Nate What Could Possibly Go Wrong?,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062086952,CHECKED_OUT,000072,2018-03-22T00:49:15Z
+000823,The Kid Who Ran for President,"Gutman, Dan",9780545355650,AVAILABLE,null,null
+000824,Journey to the Crystal Cave,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481499873,CHECKED_OUT,000085,2018-03-19T17:05:06Z
+000825,Viking Ships at Sunrise,"Osborne, Mary Pope;  Murdocca, Sal (ILT)",9780375894725,CHECKED_OUT,000032,2018-04-02T08:36:44Z
+000826,Big Nate Lives It Up,"Peirce, Lincoln;  Peirce, Lincoln (ILT)",9780062111104,LOST,null,null
+000827,Rain Reign,"Martin, Ann M.",9781250064233,AVAILABLE,null,null
+000828,Captain Underpants and the Preposterous Plight of the Purple Potty People,"Pilkey, Dav;  Pilkey, Dav (ILT)",9780545627986,AVAILABLE,null,null
+000829,Cheater Pants,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894459,AVAILABLE,null,null
+000830,"I Survived Hurricane Katrina, 2005","Tarshis, Lauren;  Dawson, Scott (ILT)",9780545414890,AVAILABLE,null,null
+000831,Holding Up the Universe,"Niven, Jennifer; Marie, Jorjeana (NAR)# Daymond, Robbie (NAR)",9780735207530,CHECKED_OUT,000085,2018-04-29T10:05:30Z
+000832,Six of Crows,"Bardugo, Leigh",9781627795227,AVAILABLE,null,null
+000833,The First Rule of Punk,"Pérez, Celia C.",9780425290415,CHECKED_OUT,000092,2018-05-06T05:47:55Z
+000834,Ted & Me,"Gutman, Dan",9780062102102,AVAILABLE,null,null
+000835,Legends of the Clans,"Hunter, Erin",9780062560889,CHECKED_OUT,000049,2018-04-04T19:24:57Z
+000836,Junie B. Jones Is a Graduation Girl,"Park, Barbara;  Brunkus, Denise (ILT)",9780375894411,LOST,null,null
+000837,"Happy Birthday, Bad Kitty","Bruel, Nick;  Bruel, Nick (ILT)",9781429994392,AVAILABLE,null,null
+000838,Winter,"Meyer, Marissa; Soler, Rebecca (NAR)",9781427276117,AVAILABLE,null,null
+000839,My Life Is a Joke,"Patterson, James;  Grabenstein, Chris;  Kerascoet (ILT)",9780316438629,CHECKED_OUT,000062,2018-03-30T16:28:58Z
+000840,Ender's Game,"Card, Orson Scott; Rudnicki, Stefan (NAR)# Ellison, Harlan (NAR)# De Cuir, Gabrielle (NAR)# Various (NAR)",9781427220585,AVAILABLE,null,null
+000841,The Great Big Paw Print,"Green, Poppy;  Bell, Jennifer A. (ILT)",9781481471503,CHECKED_OUT,000067,2018-04-13T06:45:50Z
+000842,Water Wars,"Stracher, Cameron",9781402267611,AVAILABLE,null,null
+000843,Origins,"Smith, L. J. (CRT)# Williamson, Kevin;  Plec, Julie",9780062020406,LOST,null,null
+000844,Breaking Dawn,"Meyer, Stephenie; Kadushin, Ilyana (NAR)# Walters, Matt (NAR)",9780739367704,AVAILABLE,null,null
+000845,Legends of the Clans,"Hunter, Erin",9780062560889,CHECKED_OUT,000094,2018-04-06T04:04:36Z
+000846,Unusual Creatures,"Hearst, Michael;  Noordeman, Jelmer (ILT)",9781452119854,CHECKED_OUT,000070,2018-04-25T13:52:48Z
+000847,A Wrinkle in Time,"L'Engle, Madeleine",9781429915649,AVAILABLE,null,null
+000848,The Last Olympian,"Riordan, Rick",9781423131991,CHECKED_OUT,000064,2018-04-23T11:38:08Z
+000849,Crossed,"Condie, Allyson Braithwaite; Riccobono, Jack (NAR)# Simses, Kate (NAR)",9781101978795,AVAILABLE,null,null
+000850,The Remedy,"Young, Suzanne; Ross, Rebekkah (NAR)",9781442381773,AVAILABLE,null,null
+000851,Breakout,"West, Tracey",9780545848008,CHECKED_OUT,000005,2018-05-04T12:42:21Z
+000852,First Love,"Patterson, James;  Raymond, Emily",9780316242332,CHECKED_OUT,000025,2018-04-10T02:14:00Z
+000853,Navigating Early,"Vanderpool, Clare",9780307974129,CHECKED_OUT,000092,2018-03-18T10:29:53Z
+000854,Edison's Alley,"Shusterman, Neal;  Elfman, Eric",9781423155188,AVAILABLE,null,null
+000855,Kaffir Boy,"Mathabane, Mark; Mathabane, Mark (NAR)",9781483076898,CHECKED_OUT,000008,2018-04-30T21:49:07Z
+000856,Judy Moody and the Not Bummer Summer,"McDonald, Megan;  Reynolds, Peter (ILT)",9780763662233,AVAILABLE,null,null
+--------TRANSACTIONS
+000000,000060,000441,CHECKOUT,2018-03-12T03:05:21Z
+000001,000097,000401,CHECKOUT,2018-03-12T10:01:06Z
+000002,000054,000262,CHECKOUT,2018-03-12T13:06:26Z
+000003,000040,000553,CHECKOUT,2018-03-12T18:38:12Z
+000004,000017,000414,CHECKOUT,2018-03-12T18:51:43Z
+000005,000094,000734,CHECKOUT,2018-03-13T01:39:11Z
+000006,000009,000702,CHECKOUT,2018-03-13T01:49:36Z
+000007,000087,000794,CHECKOUT,2018-03-13T08:12:43Z
+000008,000046,000528,CHECKOUT,2018-03-13T11:57:45Z
+000009,000092,000098,CHECKOUT,2018-03-13T14:52:17Z
+000010,000033,000523,CHECKOUT,2018-03-13T14:59:38Z
+000011,000085,000556,CHECKOUT,2018-03-13T15:11:26Z
+000012,000038,000750,CHECKOUT,2018-03-13T15:46:01Z
+000013,000063,000543,CHECKOUT,2018-03-14T02:15:15Z
+000014,000069,000113,CHECKOUT,2018-03-14T05:15:41Z
+000015,000054,000444,CHECKOUT,2018-03-14T07:28:48Z
+000016,000085,000609,CHECKOUT,2018-03-14T09:01:15Z
+000017,000063,000238,CHECKOUT,2018-03-14T09:56:26Z
+000018,000031,000654,CHECKOUT,2018-03-14T10:15:51Z
+000019,000010,000610,CHECKOUT,2018-03-14T10:16:23Z
+000020,000072,000673,CHECKOUT,2018-03-14T14:17:26Z
+000021,000072,000297,CHECKOUT,2018-03-14T15:19:33Z
+000022,000081,000596,CHECKOUT,2018-03-14T17:19:07Z
+000023,000084,000427,CHECKOUT,2018-03-14T17:49:46Z
+000024,000088,000292,CHECKOUT,2018-03-14T22:11:54Z
+000025,000014,000446,CHECKOUT,2018-03-14T23:23:16Z
+000026,000096,000549,CHECKOUT,2018-03-15T00:14:43Z
+000027,000040,000184,CHECKOUT,2018-03-15T02:22:27Z
+000028,000009,000702,RETURN,2018-03-15T06:52:45.241Z
+000029,000098,000076,CHECKOUT,2018-03-15T19:10:31Z
+000030,000046,000489,CHECKOUT,2018-03-15T19:22:58Z
+000031,000049,000442,CHECKOUT,2018-03-16T01:18:32Z
+000032,000033,000523,RETURN,2018-03-16T01:53:25.269Z
+000033,000078,000665,CHECKOUT,2018-03-16T04:22:42Z
+000034,000028,000267,CHECKOUT,2018-03-16T04:49:02Z
+000035,000060,000806,CHECKOUT,2018-03-16T05:35:14Z
+000036,000020,000705,CHECKOUT,2018-03-16T05:57:58Z
+000037,000051,000225,CHECKOUT,2018-03-16T10:18:02Z
+000038,000035,000023,CHECKOUT,2018-03-16T16:09:56Z
+000039,000098,000256,CHECKOUT,2018-03-16T20:14:33Z
+000040,000008,000286,CHECKOUT,2018-03-16T20:19:59Z
+000041,000020,000576,CHECKOUT,2018-03-16T21:14:39Z
+000042,000083,000342,CHECKOUT,2018-03-17T00:44:26Z
+000043,000062,000720,CHECKOUT,2018-03-17T01:18:30Z
+000044,000098,000256,RETURN,2018-03-17T02:38:27.511Z
+000045,000040,000193,CHECKOUT,2018-03-17T16:30:27Z
+000046,000087,000637,CHECKOUT,2018-03-17T20:01:32Z
+000047,000052,000281,CHECKOUT,2018-03-17T20:06:29Z
+000048,000069,000502,CHECKOUT,2018-03-17T21:19:15Z
+000049,000012,000284,CHECKOUT,2018-03-17T22:57:42Z
+000050,000039,000282,CHECKOUT,2018-03-18T04:26:54Z
+000051,000010,000521,CHECKOUT,2018-03-18T08:33:32Z
+000052,000083,000380,CHECKOUT,2018-03-18T08:33:53Z
+000053,000092,000853,CHECKOUT,2018-03-18T10:29:53Z
+000054,000046,000528,RETURN,2018-03-19T00:09:22.225Z
+000055,000011,000498,CHECKOUT,2018-03-19T02:32:07Z
+000056,000020,000128,CHECKOUT,2018-03-19T06:49:16Z
+000057,000069,000113,RETURN,2018-03-19T08:23:05.757Z
+000058,000062,000144,CHECKOUT,2018-03-19T16:50:11Z
+000059,000085,000824,CHECKOUT,2018-03-19T17:05:06Z
+000060,000029,000429,CHECKOUT,2018-03-20T00:57:28Z
+000061,000060,000361,CHECKOUT,2018-03-20T02:57:03Z
+000062,000023,000510,CHECKOUT,2018-03-20T06:27:11Z
+000063,000008,000382,CHECKOUT,2018-03-20T07:02:32Z
+000064,000005,000567,CHECKOUT,2018-03-20T14:56:32Z
+000065,000099,000269,CHECKOUT,2018-03-20T17:48:54Z
+000066,000028,000000,CHECKOUT,2018-03-20T18:17:10Z
+000067,000023,000026,CHECKOUT,2018-03-20T19:53:22Z
+000068,000041,000232,CHECKOUT,2018-03-20T20:22:30Z
+000069,000092,000098,RETURN,2018-03-20T21:20:56.210Z
+000070,000040,000553,RETURN,2018-03-20T23:10:34.951Z
+000071,000072,000297,RETURN,2018-03-21T01:31:14.566Z
+000072,000063,000543,RETURN,2018-03-21T03:15:56.981Z
+000073,000008,000286,RETURN,2018-03-21T06:30:56.866Z
+000074,000014,000446,RETURN,2018-03-21T10:50:05.515Z
+000075,000012,000069,CHECKOUT,2018-03-21T12:12:41Z
+000076,000036,000445,CHECKOUT,2018-03-21T15:04:46Z
+000077,000057,000309,CHECKOUT,2018-03-21T15:25:06Z
+000078,000026,000777,CHECKOUT,2018-03-21T18:06:06Z
+000079,000087,000637,RETURN,2018-03-21T20:42:47.447Z
+000080,000072,000822,CHECKOUT,2018-03-22T00:49:15Z
+000081,000014,000385,CHECKOUT,2018-03-22T02:09:20Z
+000082,000038,000258,CHECKOUT,2018-03-22T02:37:07Z
+000083,000025,000306,CHECKOUT,2018-03-22T02:39:00Z
+000084,000095,000710,CHECKOUT,2018-03-22T11:20:41Z
+000085,000038,000516,CHECKOUT,2018-03-22T13:57:09Z
+000086,000094,000526,CHECKOUT,2018-03-22T14:49:49Z
+000087,000017,000408,CHECKOUT,2018-03-22T16:27:18Z
+000088,000031,000654,RETURN,2018-03-22T16:56:23.075Z
+000089,000034,000095,CHECKOUT,2018-03-22T17:46:27Z
+000090,000018,000411,CHECKOUT,2018-03-22T17:47:44Z
+000091,000042,000173,CHECKOUT,2018-03-22T18:39:49Z
+000092,000046,000489,RETURN,2018-03-22T22:09:26.394Z
+000093,000006,000531,CHECKOUT,2018-03-23T02:02:48Z
+000094,000080,000072,CHECKOUT,2018-03-23T03:45:22Z
+000095,000011,000015,CHECKOUT,2018-03-23T04:04:44Z
+000096,000028,000000,RETURN,2018-03-23T04:20:38.975Z
+000097,000081,000020,CHECKOUT,2018-03-23T09:07:09Z
+000098,000006,000422,CHECKOUT,2018-03-23T11:28:54Z
+000099,000091,000001,CHECKOUT,2018-03-23T15:48:12Z
+000100,000030,000228,CHECKOUT,2018-03-23T19:30:45Z
+000101,000090,000039,CHECKOUT,2018-03-23T20:01:47Z
+000102,000069,000558,CHECKOUT,2018-03-23T21:11:42Z
+000103,000038,000258,RETURN,2018-03-24T04:10:37.557Z
+000104,000053,000662,CHECKOUT,2018-03-24T07:00:53Z
+000105,000011,000498,RETURN,2018-03-24T08:57:20.517Z
+000106,000060,000361,RETURN,2018-03-24T12:21:59.600Z
+000107,000087,000007,CHECKOUT,2018-03-24T12:39:15Z
+000108,000038,000516,RETURN,2018-03-24T13:58:48.894Z
+000109,000054,000803,CHECKOUT,2018-03-25T06:46:57Z
+000110,000070,000062,CHECKOUT,2018-03-25T07:06:41Z
+000111,000082,000430,CHECKOUT,2018-03-25T08:05:14Z
+000112,000061,000249,CHECKOUT,2018-03-25T10:06:07Z
+000113,000024,000377,CHECKOUT,2018-03-25T11:52:07Z
+000114,000054,000418,CHECKOUT,2018-03-25T20:20:22Z
+000115,000039,000019,CHECKOUT,2018-03-25T21:06:07Z
+000116,000033,000644,CHECKOUT,2018-03-25T21:31:11Z
+000117,000069,000502,RETURN,2018-03-25T23:02:02.160Z
+000118,000048,000641,CHECKOUT,2018-03-26T03:49:29Z
+000119,000051,000512,CHECKOUT,2018-03-26T06:44:07Z
+000120,000052,000281,RETURN,2018-03-26T09:04:19.584Z
+000121,000025,000754,CHECKOUT,2018-03-26T11:22:50Z
+000122,000097,000125,CHECKOUT,2018-03-26T11:41:53Z
+000123,000037,000209,CHECKOUT,2018-03-26T11:53:52Z
+000124,000014,000018,CHECKOUT,2018-03-26T13:00:16Z
+000125,000097,000255,CHECKOUT,2018-03-26T16:26:22Z
+000126,000035,000023,RETURN,2018-03-26T23:26:20.692Z
+000127,000049,000025,CHECKOUT,2018-03-27T03:53:04Z
+000128,000079,000545,CHECKOUT,2018-03-27T08:43:51Z
+000129,000099,000635,CHECKOUT,2018-03-27T17:05:13Z
+000130,000082,000430,RETURN,2018-03-27T21:00:28.657Z
+000131,000025,000110,CHECKOUT,2018-03-27T22:01:24Z
+000132,000034,000515,CHECKOUT,2018-03-27T23:25:08Z
+000133,000020,000576,RETURN,2018-03-27T23:34:30.604Z
+000134,000039,000253,CHECKOUT,2018-03-28T02:32:19Z
+000135,000028,000192,CHECKOUT,2018-03-28T05:23:38Z
+000136,000085,000346,CHECKOUT,2018-03-28T05:38:41Z
+000137,000001,000792,CHECKOUT,2018-03-28T14:29:40Z
+000138,000097,000255,RETURN,2018-03-28T17:45:19.149Z
+000139,000079,000214,CHECKOUT,2018-03-28T18:13:31Z
+000140,000086,000658,CHECKOUT,2018-03-28T21:33:49Z
+000141,000092,000552,CHECKOUT,2018-03-28T22:35:01Z
+000142,000018,000266,CHECKOUT,2018-03-28T23:09:09Z
+000143,000057,000291,CHECKOUT,2018-03-29T00:38:57Z
+000144,000007,000201,CHECKOUT,2018-03-29T03:50:14Z
+000145,000047,000240,CHECKOUT,2018-03-29T04:03:26Z
+000146,000096,000549,RETURN,2018-03-29T08:33:28.144Z
+000147,000069,000558,RETURN,2018-03-29T09:20:46.558Z
+000148,000093,000343,CHECKOUT,2018-03-29T15:00:07Z
+000149,000076,000708,CHECKOUT,2018-03-29T15:42:12Z
+000150,000071,000005,CHECKOUT,2018-03-29T17:27:57Z
+000151,000086,000479,CHECKOUT,2018-03-29T18:07:11Z
+000152,000082,000578,CHECKOUT,2018-03-29T20:51:12Z
+000153,000062,000024,CHECKOUT,2018-03-30T00:15:01Z
+000154,000070,000615,CHECKOUT,2018-03-30T02:06:21Z
+000155,000096,000431,CHECKOUT,2018-03-30T04:14:29Z
+000156,000029,000429,RETURN,2018-03-30T05:03:26.664Z
+000157,000022,000752,CHECKOUT,2018-03-30T07:46:14Z
+000158,000053,000775,CHECKOUT,2018-03-30T10:49:24Z
+000159,000037,000209,RETURN,2018-03-30T15:39:28.994Z
+000160,000062,000839,CHECKOUT,2018-03-30T16:28:58Z
+000161,000071,000203,CHECKOUT,2018-03-30T17:17:18Z
+000162,000035,000372,CHECKOUT,2018-03-30T18:29:29Z
+000163,000048,000786,CHECKOUT,2018-03-31T01:25:22Z
+000164,000099,000269,RETURN,2018-03-31T04:18:51.076Z
+000165,000039,000226,CHECKOUT,2018-03-31T11:02:15Z
+000166,000008,000391,CHECKOUT,2018-03-31T13:23:52Z
+000167,000060,000806,RETURN,2018-03-31T19:24:33.903Z
+000168,000095,000006,CHECKOUT,2018-03-31T21:14:41Z
+000169,000016,000761,CHECKOUT,2018-04-01T05:27:43Z
+000170,000011,000030,CHECKOUT,2018-04-01T08:09:30Z
+000171,000002,000605,CHECKOUT,2018-04-01T10:06:07Z
+000172,000027,000503,CHECKOUT,2018-04-01T11:11:19Z
+000173,000089,000028,CHECKOUT,2018-04-01T14:33:19Z
+000174,000088,000170,CHECKOUT,2018-04-01T16:29:40Z
+000175,000039,000295,CHECKOUT,2018-04-01T17:35:17Z
+000176,000051,000260,CHECKOUT,2018-04-01T19:36:49Z
+000177,000015,000338,CHECKOUT,2018-04-01T22:04:24Z
+000178,000012,000069,RETURN,2018-04-01T22:32:44.424Z
+000179,000048,000242,CHECKOUT,2018-04-02T01:36:44Z
+000180,000095,000730,CHECKOUT,2018-04-02T05:00:29Z
+000181,000032,000825,CHECKOUT,2018-04-02T08:36:44Z
+000182,000048,000010,CHECKOUT,2018-04-02T12:28:44Z
+000183,000052,000689,CHECKOUT,2018-04-02T22:15:14Z
+000184,000006,000404,CHECKOUT,2018-04-03T02:43:37Z
+000185,000057,000291,RETURN,2018-04-03T05:45:24.388Z
+000186,000023,000643,CHECKOUT,2018-04-03T12:28:30Z
+000187,000064,000403,CHECKOUT,2018-04-03T15:12:02Z
+000188,000011,000030,RETURN,2018-04-03T21:14:23.863Z
+000189,000087,000109,CHECKOUT,2018-04-03T23:11:12Z
+000190,000030,000027,CHECKOUT,2018-04-04T01:55:48Z
+000191,000061,000304,CHECKOUT,2018-04-04T07:12:02Z
+000192,000085,000772,CHECKOUT,2018-04-04T11:28:19Z
+000193,000064,000693,CHECKOUT,2018-04-04T14:18:56Z
+000194,000073,000661,CHECKOUT,2018-04-04T15:08:50Z
+000195,000026,000626,CHECKOUT,2018-04-04T15:40:08Z
+000196,000010,000521,RETURN,2018-04-04T19:13:33.056Z
+000197,000049,000835,CHECKOUT,2018-04-04T19:24:57Z
+000198,000066,000668,CHECKOUT,2018-04-04T21:56:46Z
+000199,000010,000728,CHECKOUT,2018-04-05T02:34:30Z
+000200,000051,000260,RETURN,2018-04-05T03:43:33.040Z
+000201,000006,000531,RETURN,2018-04-05T04:09:58.246Z
+000202,000054,000394,CHECKOUT,2018-04-05T05:09:52Z
+000203,000033,000644,RETURN,2018-04-05T06:33:55.999Z
+000204,000092,000552,RETURN,2018-04-05T09:54:03.547Z
+000205,000020,000705,RETURN,2018-04-05T13:24:00.665Z
+000206,000004,000519,CHECKOUT,2018-04-05T20:42:14Z
+000207,000073,000661,RETURN,2018-04-06T00:03:30.493Z
+000208,000094,000845,CHECKOUT,2018-04-06T04:04:36Z
+000209,000039,000253,RETURN,2018-04-06T07:47:09.713Z
+000210,000010,000218,CHECKOUT,2018-04-06T08:57:16Z
+000211,000085,000609,RETURN,2018-04-06T09:58:34.550Z
+000212,000097,000401,RETURN,2018-04-06T12:48:35.794Z
+000213,000024,000377,RETURN,2018-04-06T14:17:50.986Z
+000214,000093,000343,RETURN,2018-04-06T21:49:45.457Z
+000215,000077,000217,CHECKOUT,2018-04-07T00:07:06Z
+000216,000083,000570,CHECKOUT,2018-04-07T00:12:13Z
+000217,000098,000076,RETURN,2018-04-07T02:16:10.572Z
+000218,000001,000620,CHECKOUT,2018-04-07T05:57:02Z
+000219,000001,000628,CHECKOUT,2018-04-07T08:01:44Z
+000220,000040,000358,CHECKOUT,2018-04-07T08:17:57Z
+000221,000060,000131,CHECKOUT,2018-04-07T10:03:48Z
+000222,000003,000499,CHECKOUT,2018-04-07T10:16:38Z
+000223,000070,000062,RETURN,2018-04-07T10:52:49.943Z
+000224,000060,000438,CHECKOUT,2018-04-07T12:27:27Z
+000225,000054,000418,RETURN,2018-04-07T20:44:14.096Z
+000226,000098,000022,CHECKOUT,2018-04-07T21:30:17Z
+000227,000089,000139,CHECKOUT,2018-04-07T21:34:34Z
+000228,000083,000068,CHECKOUT,2018-04-08T00:07:17Z
+000229,000046,000600,CHECKOUT,2018-04-08T01:48:51Z
+000230,000028,000216,CHECKOUT,2018-04-08T04:08:37Z
+000231,000046,000469,CHECKOUT,2018-04-08T05:51:07Z
+000232,000060,000059,CHECKOUT,2018-04-08T06:32:12Z
+000233,000090,000506,CHECKOUT,2018-04-08T07:17:01Z
+000234,000001,000620,RETURN,2018-04-08T07:18:18.378Z
+000235,000051,000512,RETURN,2018-04-08T13:00:50.936Z
+000236,000032,000825,RETURN,2018-04-08T14:55:22.655Z
+000237,000054,000394,RETURN,2018-04-08T18:51:39.405Z
+000238,000007,000646,CHECKOUT,2018-04-08T19:57:10Z
+000239,000080,000492,CHECKOUT,2018-04-08T22:18:12Z
+000240,000015,000814,CHECKOUT,2018-04-08T23:10:11Z
+000241,000077,000625,CHECKOUT,2018-04-08T23:10:31Z
+000242,000087,000109,RETURN,2018-04-09T02:23:49.564Z
+000243,000047,000240,RETURN,2018-04-09T04:37:40.610Z
+000244,000038,000370,CHECKOUT,2018-04-09T08:54:24Z
+000245,000054,000444,RETURN,2018-04-09T09:16:00.829Z
+000246,000072,000067,CHECKOUT,2018-04-09T10:58:46Z
+000247,000089,000280,CHECKOUT,2018-04-09T20:13:47Z
+000248,000030,000675,CHECKOUT,2018-04-09T21:20:08Z
+000249,000004,000210,CHECKOUT,2018-04-09T21:58:22Z
+000250,000034,000591,CHECKOUT,2018-04-09T22:46:16Z
+000251,000005,000047,CHECKOUT,2018-04-10T00:02:09Z
+000252,000025,000852,CHECKOUT,2018-04-10T02:14:00Z
+000253,000008,000440,CHECKOUT,2018-04-10T06:17:08Z
+000254,000042,000535,CHECKOUT,2018-04-10T07:00:11Z
+000255,000013,000406,CHECKOUT,2018-04-10T07:48:24Z
+000256,000036,000719,CHECKOUT,2018-04-10T08:01:50Z
+000257,000085,000455,CHECKOUT,2018-04-10T08:54:23Z
+000258,000003,000423,CHECKOUT,2018-04-10T17:04:06Z
+000259,000036,000649,CHECKOUT,2018-04-10T17:29:19Z
+000260,000005,000701,CHECKOUT,2018-04-10T20:09:56Z
+000261,000057,000611,CHECKOUT,2018-04-10T21:50:01Z
+000262,000063,000398,CHECKOUT,2018-04-10T21:50:12Z
+000263,000084,000685,CHECKOUT,2018-04-11T06:23:19Z
+000264,000062,000224,CHECKOUT,2018-04-11T06:46:32Z
+000265,000062,000720,RETURN,2018-04-11T07:35:07.313Z
+000266,000031,000407,CHECKOUT,2018-04-11T13:20:50Z
+000267,000050,000318,CHECKOUT,2018-04-11T14:13:57Z
+000268,000039,000040,CHECKOUT,2018-04-11T23:46:52Z
+000269,000000,000603,CHECKOUT,2018-04-12T02:44:50Z
+000270,000048,000368,CHECKOUT,2018-04-12T07:51:49Z
+000271,000072,000032,CHECKOUT,2018-04-12T07:57:50Z
+000272,000008,000134,CHECKOUT,2018-04-12T08:56:32Z
+000273,000005,000047,RETURN,2018-04-12T11:50:51.095Z
+000274,000095,000805,CHECKOUT,2018-04-12T13:53:52Z
+000275,000023,000510,RETURN,2018-04-12T19:26:23.755Z
+000276,000091,000793,CHECKOUT,2018-04-12T21:10:42Z
+000277,000042,000173,RETURN,2018-04-12T21:33:37.340Z
+000278,000050,000318,RETURN,2018-04-13T00:02:06.243Z
+000279,000062,000144,RETURN,2018-04-13T00:38:12.736Z
+000280,000054,000262,RETURN,2018-04-13T02:07:53.361Z
+000281,000064,000575,CHECKOUT,2018-04-13T03:30:04Z
+000282,000018,000411,RETURN,2018-04-13T03:53:36.600Z
+000283,000021,000237,CHECKOUT,2018-04-13T04:57:57Z
+000284,000004,000631,CHECKOUT,2018-04-13T05:47:16Z
+000285,000062,000839,RETURN,2018-04-13T05:48:44.374Z
+000286,000076,000003,CHECKOUT,2018-04-13T06:27:07Z
+000287,000067,000841,CHECKOUT,2018-04-13T06:45:50Z
+000288,000075,000538,CHECKOUT,2018-04-13T07:57:37Z
+000289,000008,000134,RETURN,2018-04-13T09:33:17.608Z
+000290,000092,000301,CHECKOUT,2018-04-13T10:20:39Z
+000291,000003,000499,RETURN,2018-04-13T12:05:12.606Z
+000292,000096,000264,CHECKOUT,2018-04-13T15:19:14Z
+000293,000006,000422,RETURN,2018-04-13T15:20:36.011Z
+000294,000008,000440,RETURN,2018-04-13T17:37:05.115Z
+000295,000042,000509,CHECKOUT,2018-04-13T19:41:11Z
+000296,000051,000351,CHECKOUT,2018-04-13T21:07:06Z
+000297,000026,000616,CHECKOUT,2018-04-14T04:42:34Z
+000298,000091,000080,CHECKOUT,2018-04-14T10:36:20Z
+000299,000030,000027,RETURN,2018-04-14T10:58:58.400Z
+000300,000050,000482,CHECKOUT,2018-04-14T13:24:09Z
+000301,000076,000003,RETURN,2018-04-14T20:07:58.032Z
+000302,000060,000320,CHECKOUT,2018-04-14T21:50:26Z
+000303,000000,000770,CHECKOUT,2018-04-14T22:07:52Z
+000304,000015,000814,RETURN,2018-04-15T03:15:27.708Z
+000305,000003,000496,CHECKOUT,2018-04-15T04:26:46Z
+000306,000093,000310,CHECKOUT,2018-04-15T04:48:15Z
+000307,000098,000324,CHECKOUT,2018-04-15T05:27:01Z
+000308,000074,000724,CHECKOUT,2018-04-15T06:49:37Z
+000309,000072,000822,RETURN,2018-04-15T09:21:50.657Z
+000310,000086,000185,CHECKOUT,2018-04-15T10:10:33Z
+000311,000056,000679,CHECKOUT,2018-04-15T12:52:22Z
+000312,000009,000033,CHECKOUT,2018-04-16T01:29:08Z
+000313,000046,000009,CHECKOUT,2018-04-16T01:36:16Z
+000314,000097,000135,CHECKOUT,2018-04-16T08:19:10Z
+000315,000053,000775,RETURN,2018-04-16T11:27:04.830Z
+000316,000067,000425,CHECKOUT,2018-04-16T12:10:37Z
+000317,000010,000728,RETURN,2018-04-16T12:11:43.716Z
+000318,000031,000407,RETURN,2018-04-16T16:53:03.230Z
+000319,000045,000810,CHECKOUT,2018-04-16T17:33:21Z
+000320,000072,000067,RETURN,2018-04-16T18:17:30.625Z
+000321,000082,000454,CHECKOUT,2018-04-17T02:48:32Z
+000322,000038,000579,CHECKOUT,2018-04-17T05:57:08Z
+000323,000060,000320,RETURN,2018-04-17T07:44:40.264Z
+000324,000028,000192,RETURN,2018-04-17T08:25:34.324Z
+000325,000028,000267,RETURN,2018-04-17T08:34:42.828Z
+000326,000011,000607,CHECKOUT,2018-04-17T10:54:22Z
+000327,000079,000545,RETURN,2018-04-17T11:03:09.310Z
+000328,000071,000182,CHECKOUT,2018-04-17T13:31:20Z
+000329,000070,000615,RETURN,2018-04-17T13:48:17.038Z
+000330,000034,000095,RETURN,2018-04-17T18:06:35.120Z
+000331,000027,000503,RETURN,2018-04-17T18:17:51.861Z
+000332,000077,000120,CHECKOUT,2018-04-17T23:27:03Z
+000333,000037,000330,CHECKOUT,2018-04-17T23:52:33Z
+000334,000036,000547,CHECKOUT,2018-04-18T02:12:13Z
+000335,000094,000734,RETURN,2018-04-18T03:59:08.526Z
+000336,000057,000726,CHECKOUT,2018-04-18T04:32:19Z
+000337,000007,000083,CHECKOUT,2018-04-18T04:47:36Z
+000338,000005,000220,CHECKOUT,2018-04-18T11:48:36Z
+000339,000037,000722,CHECKOUT,2018-04-18T11:54:56Z
+000340,000095,000710,RETURN,2018-04-18T11:57:27.524Z
+000341,000014,000743,CHECKOUT,2018-04-18T14:09:36Z
+000342,000098,000070,CHECKOUT,2018-04-18T14:10:03Z
+000343,000067,000063,CHECKOUT,2018-04-18T19:28:27Z
+000344,000089,000028,RETURN,2018-04-18T19:56:22.167Z
+000345,000004,000519,RETURN,2018-04-18T20:52:47.375Z
+000346,000087,000511,CHECKOUT,2018-04-19T04:47:34Z
+000347,000021,000554,CHECKOUT,2018-04-19T08:04:14Z
+000348,000060,000441,RETURN,2018-04-19T08:40:32.216Z
+000349,000010,000218,RETURN,2018-04-19T09:00:17.684Z
+000350,000046,000273,CHECKOUT,2018-04-19T09:57:46Z
+000351,000083,000336,CHECKOUT,2018-04-19T12:03:17Z
+000352,000010,000804,CHECKOUT,2018-04-19T13:59:49Z
+000353,000008,000614,CHECKOUT,2018-04-19T17:28:13Z
+000354,000072,000673,RETURN,2018-04-19T18:39:20.653Z
+000355,000048,000683,CHECKOUT,2018-04-19T20:46:23Z
+000356,000080,000086,CHECKOUT,2018-04-19T20:59:14Z
+000357,000004,000399,CHECKOUT,2018-04-19T22:27:12Z
+000358,000049,000835,RETURN,2018-04-20T03:59:50.015Z
+000359,000061,000325,CHECKOUT,2018-04-20T13:36:17Z
+000360,000075,000060,CHECKOUT,2018-04-20T14:33:44Z
+000361,000071,000659,CHECKOUT,2018-04-20T20:17:13Z
+000362,000008,000458,CHECKOUT,2018-04-21T01:35:39Z
+000363,000059,000146,CHECKOUT,2018-04-21T04:14:45Z
+000364,000049,000178,CHECKOUT,2018-04-21T07:27:41Z
+000365,000011,000015,RETURN,2018-04-21T12:43:12.145Z
+000366,000073,000687,CHECKOUT,2018-04-21T12:55:25Z
+000367,000061,000325,RETURN,2018-04-21T14:56:14.095Z
+000368,000052,000151,CHECKOUT,2018-04-21T16:43:46Z
+000369,000074,000724,RETURN,2018-04-21T19:08:05.173Z
+000370,000010,000804,RETURN,2018-04-21T19:59:19.740Z
+000371,000016,000254,CHECKOUT,2018-04-21T21:50:46Z
+000372,000040,000227,CHECKOUT,2018-04-21T23:46:44Z
+000373,000000,000099,CHECKOUT,2018-04-22T00:12:20Z
+000374,000017,000476,CHECKOUT,2018-04-22T02:41:23Z
+000375,000096,000264,RETURN,2018-04-22T02:50:20.658Z
+000376,000071,000143,CHECKOUT,2018-04-22T07:39:40Z
+000377,000072,000032,RETURN,2018-04-22T12:07:04.286Z
+000378,000071,000448,CHECKOUT,2018-04-22T13:59:01Z
+000379,000064,000403,RETURN,2018-04-22T15:31:56.506Z
+000380,000064,000693,RETURN,2018-04-22T16:45:34.918Z
+000381,000007,000083,RETURN,2018-04-22T17:40:30.580Z
+000382,000065,000041,CHECKOUT,2018-04-22T20:25:20Z
+000383,000034,000420,CHECKOUT,2018-04-22T22:17:25Z
+000384,000086,000740,CHECKOUT,2018-04-22T22:34:39Z
+000385,000036,000054,CHECKOUT,2018-04-23T00:43:28Z
+000386,000083,000342,RETURN,2018-04-23T01:14:39.656Z
+000387,000084,000427,RETURN,2018-04-23T01:32:51.623Z
+000388,000096,000117,CHECKOUT,2018-04-23T03:52:48Z
+000389,000010,000046,CHECKOUT,2018-04-23T04:55:31Z
+000390,000069,000618,CHECKOUT,2018-04-23T05:13:11Z
+000391,000038,000470,CHECKOUT,2018-04-23T05:16:20Z
+000392,000081,000596,RETURN,2018-04-23T05:59:17.851Z
+000393,000066,000668,RETURN,2018-04-23T07:00:52.024Z
+000394,000023,000049,CHECKOUT,2018-04-23T07:29:28Z
+000395,000090,000713,CHECKOUT,2018-04-23T09:05:26Z
+000396,000063,000238,RETURN,2018-04-23T11:19:59.716Z
+000397,000064,000848,CHECKOUT,2018-04-23T11:38:08Z
+000398,000085,000556,RETURN,2018-04-23T21:17:07.544Z
+000399,000094,000384,CHECKOUT,2018-04-23T22:52:37Z
+000400,000051,000074,CHECKOUT,2018-04-24T10:33:54Z
+000401,000094,000536,CHECKOUT,2018-04-24T10:45:44Z
+000402,000067,000841,RETURN,2018-04-24T11:40:46.167Z
+000403,000098,000071,CHECKOUT,2018-04-24T11:42:30Z
+000404,000023,000119,CHECKOUT,2018-04-24T15:53:12Z
+000405,000075,000060,RETURN,2018-04-24T16:04:44.154Z
+000406,000039,000250,CHECKOUT,2018-04-24T16:16:12Z
+000407,000075,000538,RETURN,2018-04-24T18:10:04.262Z
+000408,000071,000012,CHECKOUT,2018-04-24T18:20:52Z
+000409,000031,000164,CHECKOUT,2018-04-24T18:44:31Z
+000410,000040,000358,RETURN,2018-04-24T19:16:28.935Z
+000411,000067,000799,CHECKOUT,2018-04-24T19:24:29Z
+000412,000099,000635,RETURN,2018-04-24T20:05:30.134Z
+000413,000049,000178,RETURN,2018-04-24T20:37:46.551Z
+000414,000013,000763,CHECKOUT,2018-04-25T00:58:37Z
+000415,000077,000625,RETURN,2018-04-25T02:48:01.101Z
+000416,000046,000136,CHECKOUT,2018-04-25T06:02:05Z
+000417,000079,000221,CHECKOUT,2018-04-25T12:25:00Z
+000418,000070,000846,CHECKOUT,2018-04-25T13:52:48Z
+000419,000039,000365,CHECKOUT,2018-04-25T14:12:14Z
+000420,000094,000536,RETURN,2018-04-25T18:26:22.226Z
+000421,000001,000628,RETURN,2018-04-25T19:09:51.307Z
+000422,000097,000125,RETURN,2018-04-25T21:00:03.327Z
+000423,000050,000211,CHECKOUT,2018-04-25T23:59:49Z
+000424,000017,000797,CHECKOUT,2018-04-26T00:12:10Z
+000425,000031,000790,CHECKOUT,2018-04-26T01:28:25Z
+000426,000093,000573,CHECKOUT,2018-04-26T02:52:10Z
+000427,000036,000649,RETURN,2018-04-26T04:20:33.763Z
+000428,000023,000026,RETURN,2018-04-26T04:40:18.846Z
+000429,000073,000008,CHECKOUT,2018-04-26T06:06:21Z
+000430,000036,000054,RETURN,2018-04-26T13:58:41.246Z
+000431,000093,000573,RETURN,2018-04-26T14:38:09.571Z
+000432,000008,000391,RETURN,2018-04-26T14:44:16.525Z
+000433,000020,000128,RETURN,2018-04-26T15:13:27.023Z
+000434,000022,000116,CHECKOUT,2018-04-26T15:57:17Z
+000435,000001,000792,RETURN,2018-04-26T16:25:29.017Z
+000436,000036,000111,CHECKOUT,2018-04-26T16:56:51Z
+000437,000083,000336,RETURN,2018-04-26T17:32:25.954Z
+000438,000027,000807,CHECKOUT,2018-04-26T19:37:31Z
+000439,000003,000423,RETURN,2018-04-26T20:28:10.034Z
+000440,000027,000263,CHECKOUT,2018-04-27T00:54:40Z
+000441,000025,000110,RETURN,2018-04-27T01:03:22.855Z
+000442,000041,000232,RETURN,2018-04-27T01:56:59.081Z
+000443,000020,000219,CHECKOUT,2018-04-27T02:55:42Z
+000444,000046,000469,RETURN,2018-04-27T08:35:52.665Z
+000445,000089,000672,CHECKOUT,2018-04-27T16:15:40Z
+000446,000038,000750,RETURN,2018-04-27T17:47:04.361Z
+000447,000090,000088,CHECKOUT,2018-04-27T18:01:56Z
+000448,000016,000271,CHECKOUT,2018-04-27T18:11:51Z
+000449,000073,000008,RETURN,2018-04-27T19:20:43.674Z
+000450,000024,000436,CHECKOUT,2018-04-27T21:01:44Z
+000451,000076,000428,CHECKOUT,2018-04-27T21:22:52Z
+000452,000058,000716,CHECKOUT,2018-04-28T01:07:41Z
+000453,000077,000120,RETURN,2018-04-28T03:27:26.175Z
+000454,000032,000741,CHECKOUT,2018-04-28T04:03:41Z
+000455,000053,000051,CHECKOUT,2018-04-28T06:07:17Z
+000456,000076,000428,RETURN,2018-04-28T07:04:02.517Z
+000457,000039,000114,CHECKOUT,2018-04-28T10:06:59Z
+000458,000085,000346,RETURN,2018-04-28T10:40:32.061Z
+000459,000083,000380,RETURN,2018-04-28T11:44:21.053Z
+000460,000048,000786,RETURN,2018-04-28T12:45:05.590Z
+000461,000074,000737,CHECKOUT,2018-04-28T14:45:14Z
+000462,000085,000455,RETURN,2018-04-28T15:27:06.747Z
+000463,000029,000624,CHECKOUT,2018-04-28T19:42:42Z
+000464,000051,000225,RETURN,2018-04-28T19:52:13.671Z
+000465,000022,000168,CHECKOUT,2018-04-28T20:21:40Z
+000466,000022,000168,RETURN,2018-04-28T20:38:01.557Z
+000467,000061,000249,RETURN,2018-04-28T20:48:52.929Z
+000468,000077,000599,CHECKOUT,2018-04-28T21:03:59Z
+000469,000018,000266,RETURN,2018-04-29T01:45:51.331Z
+000470,000014,000018,RETURN,2018-04-29T02:20:57.537Z
+000471,000010,000733,CHECKOUT,2018-04-29T02:49:38Z
+000472,000007,000653,CHECKOUT,2018-04-29T05:10:18Z
+000473,000071,000202,CHECKOUT,2018-04-29T07:23:18Z
+000474,000015,000338,RETURN,2018-04-29T07:32:59.592Z
+000475,000085,000831,CHECKOUT,2018-04-29T10:05:30Z
+000476,000004,000210,RETURN,2018-04-29T10:55:07.601Z
+000477,000006,000404,RETURN,2018-04-29T13:51:05.252Z
+000478,000087,000007,RETURN,2018-04-29T14:28:15.287Z
+000479,000007,000782,CHECKOUT,2018-04-29T14:34:00Z
+000480,000031,000696,CHECKOUT,2018-04-29T21:27:24Z
+000481,000012,000284,RETURN,2018-04-29T23:23:27.191Z
+000482,000030,000675,RETURN,2018-04-30T01:47:49.902Z
+000483,000065,000041,RETURN,2018-04-30T03:59:16.801Z
+000484,000089,000672,RETURN,2018-04-30T04:15:10.403Z
+000485,000010,000100,CHECKOUT,2018-04-30T05:12:02Z
+000486,000089,000139,RETURN,2018-04-30T06:12:31.071Z
+000487,000054,000590,CHECKOUT,2018-04-30T06:22:02Z
+000488,000016,000254,RETURN,2018-04-30T07:00:48.935Z
+000489,000075,000161,CHECKOUT,2018-04-30T07:00:59Z
+000490,000017,000414,RETURN,2018-04-30T07:12:46.950Z
+000491,000092,000853,RETURN,2018-04-30T12:11:28.626Z
+000492,000087,000794,RETURN,2018-04-30T13:21:46.795Z
+000493,000057,000272,CHECKOUT,2018-04-30T15:42:29Z
+000494,000057,000309,RETURN,2018-04-30T18:27:29.829Z
+000495,000090,000713,RETURN,2018-04-30T19:58:31.288Z
+000496,000008,000855,CHECKOUT,2018-04-30T21:49:07Z
+000497,000026,000777,RETURN,2018-04-30T22:50:55.337Z
+000498,000039,000043,CHECKOUT,2018-04-30T23:16:12Z
+000499,000011,000096,CHECKOUT,2018-04-30T23:24:34Z
+000500,000089,000280,RETURN,2018-05-01T01:08:19.082Z
+000501,000056,000175,CHECKOUT,2018-05-01T03:05:31Z
+000502,000039,000250,RETURN,2018-05-01T03:06:58.391Z
+000503,000047,000355,CHECKOUT,2018-05-01T03:50:05Z
+000504,000028,000216,RETURN,2018-05-01T06:21:30.830Z
+000505,000059,000572,CHECKOUT,2018-05-01T09:08:57Z
+000506,000098,000341,CHECKOUT,2018-05-01T10:32:38Z
+000507,000075,000645,CHECKOUT,2018-05-01T12:31:28Z
+000508,000069,000618,RETURN,2018-05-01T14:12:10.405Z
+000509,000098,000704,CHECKOUT,2018-05-01T14:28:03Z
+000510,000082,000497,CHECKOUT,2018-05-01T16:40:03Z
+000511,000064,000564,CHECKOUT,2018-05-02T02:21:30Z
+000512,000025,000345,CHECKOUT,2018-05-02T03:14:44Z
+000513,000039,000167,CHECKOUT,2018-05-02T04:15:31Z
+000514,000034,000591,RETURN,2018-05-02T05:15:16.976Z
+000515,000095,000730,RETURN,2018-05-02T11:32:50.195Z
+000516,000081,000020,RETURN,2018-05-02T12:22:51.759Z
+000517,000049,000442,RETURN,2018-05-02T13:00:15.654Z
+000518,000010,000610,RETURN,2018-05-02T14:23:00.751Z
+000519,000007,000092,CHECKOUT,2018-05-02T14:59:41Z
+000520,000002,000617,CHECKOUT,2018-05-02T15:33:50Z
+000521,000098,000070,RETURN,2018-05-02T16:31:06.227Z
+000522,000076,000708,RETURN,2018-05-02T17:59:00.028Z
+000523,000005,000567,RETURN,2018-05-02T20:36:33.590Z
+000524,000051,000449,CHECKOUT,2018-05-03T01:22:54Z
+000525,000004,000300,CHECKOUT,2018-05-03T02:45:14Z
+000526,000031,000164,RETURN,2018-05-03T02:55:13.925Z
+000527,000043,000505,CHECKOUT,2018-05-03T06:10:35Z
+000528,000075,000487,CHECKOUT,2018-05-03T12:25:12Z
+000529,000073,000669,CHECKOUT,2018-05-03T13:23:28Z
+000530,000096,000431,RETURN,2018-05-03T15:14:53.393Z
+000531,000076,000461,CHECKOUT,2018-05-03T16:15:52Z
+000532,000008,000382,RETURN,2018-05-03T17:22:03.434Z
+000533,000093,000621,CHECKOUT,2018-05-03T19:10:04Z
+000534,000034,000698,CHECKOUT,2018-05-04T00:15:54Z
+000535,000060,000540,CHECKOUT,2018-05-04T02:40:55Z
+000536,000080,000492,RETURN,2018-05-04T03:20:50.087Z
+000537,000071,000448,RETURN,2018-05-04T03:51:54.711Z
+000538,000025,000852,RETURN,2018-05-04T04:51:06.594Z
+000539,000064,000697,CHECKOUT,2018-05-04T07:18:50Z
+000540,000067,000799,RETURN,2018-05-04T08:20:38.754Z
+000541,000062,000024,RETURN,2018-05-04T08:55:25.878Z
+000542,000086,000740,RETURN,2018-05-04T11:38:35.008Z
+000543,000074,000655,CHECKOUT,2018-05-04T12:36:56Z
+000544,000005,000851,CHECKOUT,2018-05-04T12:42:21Z
+000545,000099,000093,CHECKOUT,2018-05-04T14:50:19Z
+000546,000014,000753,CHECKOUT,2018-05-04T14:52:42Z
+000547,000040,000193,RETURN,2018-05-04T17:27:34.513Z
+000548,000053,000662,RETURN,2018-05-04T18:48:46.940Z
+000549,000016,000381,CHECKOUT,2018-05-04T19:49:13Z
+000550,000019,000155,CHECKOUT,2018-05-04T20:10:58Z
+000551,000036,000719,RETURN,2018-05-04T20:42:48.446Z
+000552,000000,000150,CHECKOUT,2018-05-04T22:32:56Z
+000553,000098,000022,RETURN,2018-05-05T02:42:41.533Z
+000554,000039,000019,RETURN,2018-05-05T04:06:43.029Z
+000555,000040,000184,RETURN,2018-05-05T06:16:48.420Z
+000556,000000,000612,CHECKOUT,2018-05-05T07:15:50Z
+000557,000088,000292,RETURN,2018-05-05T08:00:38.654Z
+000558,000034,000515,RETURN,2018-05-05T11:35:44.126Z
+000559,000025,000306,RETURN,2018-05-05T15:12:56.933Z
+000560,000071,000182,RETURN,2018-05-05T16:15:17.042Z
+000561,000060,000059,RETURN,2018-05-05T17:04:44.884Z
+000562,000017,000671,CHECKOUT,2018-05-05T21:14:11Z
+000563,000057,000298,CHECKOUT,2018-05-05T23:46:59Z
+000564,000009,000352,CHECKOUT,2018-05-06T03:51:02Z
+000565,000090,000780,CHECKOUT,2018-05-06T03:54:02Z
+000566,000094,000384,RETURN,2018-05-06T04:39:57.692Z
+000567,000091,000452,CHECKOUT,2018-05-06T05:29:56Z
+000568,000092,000833,CHECKOUT,2018-05-06T05:47:55Z
+000569,000007,000563,CHECKOUT,2018-05-06T06:49:10Z
+000570,000060,000131,RETURN,2018-05-06T11:40:43.753Z
+000571,000003,000392,CHECKOUT,2018-05-06T11:57:08Z
+000572,000016,000198,CHECKOUT,2018-05-06T17:27:05Z
+000573,000091,000452,RETURN,2018-05-06T19:23:11.162Z
+000574,000091,000001,RETURN,2018-05-06T20:26:52.757Z
+000575,000083,000334,CHECKOUT,2018-05-06T23:29:09Z
+000576,000033,000017,CHECKOUT,2018-05-07T03:12:34Z
+000577,000000,000107,CHECKOUT,2018-05-07T08:22:58Z
+000578,000092,000188,CHECKOUT,2018-05-07T09:33:20Z
+000579,000081,000230,CHECKOUT,2018-05-07T10:00:15Z
+000580,000080,000072,RETURN,2018-05-07T10:41:20.761Z
+000581,000025,000345,RETURN,2018-05-07T10:46:50.491Z
+000582,000038,000579,RETURN,2018-05-07T10:53:54.110Z
+000583,000048,000368,RETURN,2018-05-07T15:22:48.506Z
+000584,000094,000845,RETURN,2018-05-07T15:51:27.357Z
+000585,000007,000782,RETURN,2018-05-07T18:34:24.470Z
+000586,000085,000824,RETURN,2018-05-07T21:03:53.465Z
+000587,000036,000445,RETURN,2018-05-07T22:39:07.603Z
+000588,000052,000689,RETURN,2018-05-07T22:54:41.986Z
+000589,000048,000140,CHECKOUT,2018-05-07T23:51:33Z
+000590,000010,000142,CHECKOUT,2018-05-08T00:43:03Z
+000591,000069,000580,CHECKOUT,2018-05-08T00:48:40Z
+000592,000098,000704,RETURN,2018-05-08T01:28:36.567Z
+000593,000031,000688,CHECKOUT,2018-05-08T02:24:03Z
+000594,000044,000595,CHECKOUT,2018-05-08T02:52:59Z
+000595,000005,000851,RETURN,2018-05-08T03:20:17.604Z
+000596,000075,000645,RETURN,2018-05-08T03:20:17.613Z
+000597,000052,000151,RETURN,2018-05-08T03:20:17.613Z
+000598,000057,000298,RETURN,2018-05-08T03:20:17.613Z
+000599,000039,000365,RETURN,2018-05-08T03:20:17.614Z
+000600,000027,000807,RETURN,2018-05-08T03:20:17.614Z
+000601,000069,000580,RETURN,2018-05-08T03:20:17.615Z
+000602,000071,000202,RETURN,2018-05-08T03:20:17.615Z
+000603,000031,000688,RETURN,2018-05-08T03:20:17.615Z
+000604,000082,000578,RETURN,2018-05-08T03:20:17.615Z
+000605,000039,000167,RETURN,2018-05-08T03:20:17.615Z
+000606,000014,000743,RETURN,2018-05-08T03:20:17.615Z
+000607,000032,000741,RETURN,2018-05-08T03:20:17.615Z
+000608,000059,000572,RETURN,2018-05-08T03:20:17.616Z
+000609,000071,000005,RETURN,2018-05-08T03:20:17.616Z
+000610,000059,000146,RETURN,2018-05-08T03:20:17.616Z
+000611,000070,000846,RETURN,2018-05-08T03:20:17.617Z
+000612,000094,000526,RETURN,2018-05-08T03:20:17.617Z
+000613,000071,000143,RETURN,2018-05-08T03:20:17.617Z
+000614,000042,000535,RETURN,2018-05-08T03:20:17.617Z
+000615,000007,000653,RETURN,2018-05-08T03:20:17.617Z
+000616,000071,000659,RETURN,2018-05-08T03:20:17.617Z
+000617,000045,000810,RETURN,2018-05-08T03:20:17.617Z
+000618,000000,000107,RETURN,2018-05-08T03:20:17.618Z
+000619,000088,000170,RETURN,2018-05-08T03:20:17.618Z
+000620,000057,000611,RETURN,2018-05-08T03:20:17.618Z
+000621,000057,000726,RETURN,2018-05-08T03:20:17.618Z
+000622,000096,000117,RETURN,2018-05-08T03:20:17.619Z
+000623,000079,000221,RETURN,2018-05-08T03:20:17.619Z
+000624,000040,000227,RETURN,2018-05-08T03:20:17.619Z
+000625,000090,000088,RETURN,2018-05-08T03:20:17.619Z
+000626,000073,000687,RETURN,2018-05-08T03:20:17.619Z
+000627,000022,000116,RETURN,2018-05-08T03:20:17.619Z
+000628,000038,000370,RETURN,2018-05-08T03:20:17.620Z
+000629,000003,000392,RETURN,2018-05-08T03:20:17.620Z
+000630,000083,000334,RETURN,2018-05-08T03:20:17.620Z
+000631,000047,000355,RETURN,2018-05-08T03:20:17.621Z
+000632,000023,000643,RETURN,2018-05-08T03:20:17.621Z
+000633,000060,000540,RETURN,2018-05-08T03:20:17.621Z
+000634,000000,000770,RETURN,2018-05-08T03:20:17.622Z
+000635,000097,000135,RETURN,2018-05-08T03:20:17.622Z
+000636,000067,000063,RETURN,2018-05-08T03:20:17.622Z
+000637,000048,000683,RETURN,2018-05-08T03:20:17.622Z
+000638,000054,000590,RETURN,2018-05-08T03:20:17.622Z
+000639,000000,000603,RETURN,2018-05-08T03:20:17.622Z
+000640,000010,000100,RETURN,2018-05-08T03:20:17.623Z
+000641,000075,000487,RETURN,2018-05-08T03:20:17.624Z
+000642,000042,000509,RETURN,2018-05-08T03:20:17.624Z
+000643,000039,000043,RETURN,2018-05-08T03:20:17.624Z
+000644,000010,000142,RETURN,2018-05-08T03:20:17.624Z
+000645,000048,000010,RETURN,2018-05-08T03:20:17.625Z
+000646,000077,000599,RETURN,2018-05-08T03:20:17.625Z
+000647,000064,000697,RETURN,2018-05-08T03:20:17.625Z
+000648,000056,000175,RETURN,2018-05-08T03:20:17.625Z
+000649,000081,000230,RETURN,2018-05-08T03:20:17.626Z
+000650,000077,000217,RETURN,2018-05-08T03:20:17.626Z
+000651,000071,000203,RETURN,2018-05-08T03:20:17.626Z
+000652,000062,000224,RETURN,2018-05-08T03:20:17.627Z
+000653,000086,000185,RETURN,2018-05-08T03:20:17.627Z
+000654,000020,000219,RETURN,2018-05-08T03:20:17.627Z
+000655,000064,000564,RETURN,2018-05-08T03:20:17.627Z
+000656,000087,000511,RETURN,2018-05-08T03:20:17.627Z
+000657,000082,000497,RETURN,2018-05-08T03:20:17.628Z
+000658,000007,000563,RETURN,2018-05-08T03:20:17.628Z
+000659,000022,000752,RETURN,2018-05-08T03:20:17.628Z
+000660,000090,000039,RETURN,2018-05-08T03:20:17.629Z
+000661,000092,000188,RETURN,2018-05-08T03:20:17.629Z
+000662,000039,000040,RETURN,2018-05-08T03:20:17.629Z
+000663,000074,000655,RETURN,2018-05-08T03:20:17.629Z
+000664,000017,000476,RETURN,2018-05-08T03:20:17.630Z
+000665,000037,000722,RETURN,2018-05-08T03:20:17.630Z
+000666,000099,000093,RETURN,2018-05-08T03:20:17.630Z
+000667,000048,000641,RETURN,2018-05-08T03:20:17.630Z
+000668,000016,000381,RETURN,2018-05-08T03:20:17.630Z
+000669,000013,000406,RETURN,2018-05-08T03:20:17.631Z
+000670,000086,000479,RETURN,2018-05-08T03:20:17.631Z
+000671,000098,000071,RETURN,2018-05-08T03:20:17.632Z
+000672,000021,000554,RETURN,2018-05-08T03:20:17.632Z
+000673,000004,000631,RETURN,2018-05-08T03:20:17.632Z
+000674,000019,000155,RETURN,2018-05-08T03:20:17.632Z
+000675,000046,000009,RETURN,2018-05-08T03:20:17.632Z
+000676,000090,000780,RETURN,2018-05-08T03:20:17.632Z
+000677,000016,000271,RETURN,2018-05-08T03:20:17.632Z
+000678,000002,000605,RETURN,2018-05-08T03:20:17.632Z
+000679,000024,000436,RETURN,2018-05-08T03:20:17.633Z
+000680,000048,000242,RETURN,2018-05-08T03:20:17.633Z
+000681,000083,000570,RETURN,2018-05-08T03:20:17.634Z
+000682,000008,000458,RETURN,2018-05-08T03:20:17.634Z
+000683,000026,000616,RETURN,2018-05-08T03:20:17.634Z
+000684,000013,000763,RETURN,2018-05-08T03:20:17.634Z
+000685,000016,000198,RETURN,2018-05-08T03:20:17.634Z
+000686,000035,000372,RETURN,2018-05-08T03:20:17.635Z
+000687,000076,000461,RETURN,2018-05-08T03:20:17.635Z
+000688,000092,000301,RETURN,2018-05-08T03:20:17.635Z
+000689,000004,000300,RETURN,2018-05-08T03:20:17.635Z
+000690,000063,000398,RETURN,2018-05-08T03:20:17.636Z
+000691,000014,000753,RETURN,2018-05-08T03:20:17.636Z
+000692,000095,000805,RETURN,2018-05-08T03:20:17.636Z
+000693,000049,000025,RETURN,2018-05-08T03:20:17.636Z
+000694,000038,000470,RETURN,2018-05-08T03:20:17.636Z
+000695,000007,000646,RETURN,2018-05-08T03:20:17.636Z
+000696,000079,000214,RETURN,2018-05-08T03:20:17.636Z
+000697,000003,000496,RETURN,2018-05-08T03:20:17.637Z
+000698,000095,000006,RETURN,2018-05-08T03:20:17.637Z
+000699,000030,000228,RETURN,2018-05-08T03:20:17.637Z
+000700,000007,000201,RETURN,2018-05-08T03:20:17.637Z
+000701,000011,000096,RETURN,2018-05-08T03:20:17.637Z
+000702,000036,000111,RETURN,2018-05-08T03:20:17.637Z
+000703,000075,000161,RETURN,2018-05-08T03:20:17.637Z
+000704,000000,000150,RETURN,2018-05-08T03:20:17.638Z
+000705,000023,000049,RETURN,2018-05-08T03:20:17.638Z
+000706,000064,000575,RETURN,2018-05-08T03:20:17.638Z
+000707,000010,000046,RETURN,2018-05-08T03:20:17.638Z
+000708,000093,000310,RETURN,2018-05-08T03:20:17.638Z
+000709,000031,000790,RETURN,2018-05-08T03:20:17.639Z
+000710,000043,000505,RETURN,2018-05-08T03:20:17.639Z
+000711,000091,000793,RETURN,2018-05-08T03:20:17.639Z
+000712,000064,000848,RETURN,2018-05-08T03:20:17.639Z
+000713,000091,000080,RETURN,2018-05-08T03:20:17.639Z
+000714,000046,000136,RETURN,2018-05-08T03:20:17.639Z
+000715,000053,000051,RETURN,2018-05-08T03:20:17.640Z
+000716,000048,000140,RETURN,2018-05-08T03:20:17.640Z
+000717,000044,000595,RETURN,2018-05-08T03:20:17.640Z
+000718,000036,000547,RETURN,2018-05-08T03:20:17.640Z
+000719,000039,000226,RETURN,2018-05-08T03:20:17.640Z
+000720,000039,000295,RETURN,2018-05-08T03:20:17.640Z
+000721,000067,000425,RETURN,2018-05-08T03:20:17.641Z
+000722,000098,000324,RETURN,2018-05-08T03:20:17.641Z
+000723,000039,000282,RETURN,2018-05-08T03:20:17.641Z
+000724,000039,000114,RETURN,2018-05-08T03:20:17.641Z
+000725,000085,000831,RETURN,2018-05-08T03:20:17.641Z
+000726,000058,000716,RETURN,2018-05-08T03:20:17.642Z
+000727,000002,000617,RETURN,2018-05-08T03:20:17.642Z
+000728,000014,000385,RETURN,2018-05-08T03:20:17.642Z
+000729,000025,000754,RETURN,2018-05-08T03:20:17.642Z
+000730,000027,000263,RETURN,2018-05-08T03:20:17.642Z
+000731,000004,000399,RETURN,2018-05-08T03:20:17.642Z
+000732,000074,000737,RETURN,2018-05-08T03:20:17.642Z
+000733,000034,000698,RETURN,2018-05-08T03:20:17.642Z
+000734,000051,000449,RETURN,2018-05-08T03:20:17.642Z
+000735,000071,000012,RETURN,2018-05-08T03:20:17.643Z
+000736,000093,000621,RETURN,2018-05-08T03:20:17.643Z
+000737,000098,000341,RETURN,2018-05-08T03:20:17.643Z
+000738,000011,000607,RETURN,2018-05-08T03:20:17.643Z
+000739,000073,000669,RETURN,2018-05-08T03:20:17.643Z
+000740,000078,000665,RETURN,2018-05-08T03:20:17.643Z
+000741,000084,000685,RETURN,2018-05-08T03:20:17.643Z
+000742,000061,000304,RETURN,2018-05-08T03:20:17.644Z
+000743,000008,000614,RETURN,2018-05-08T03:20:17.644Z
+000744,000082,000454,RETURN,2018-05-08T03:20:17.644Z
+000745,000007,000092,RETURN,2018-05-08T03:20:17.644Z
+000746,000057,000272,RETURN,2018-05-08T03:20:17.644Z
+000747,000037,000330,RETURN,2018-05-08T03:20:17.645Z
+000748,000090,000506,RETURN,2018-05-08T03:20:17.645Z
+000749,000000,000612,RETURN,2018-05-08T03:20:17.645Z
+000750,000005,000220,RETURN,2018-05-08T03:20:17.645Z
+000751,000050,000211,RETURN,2018-05-08T03:20:17.645Z
+000752,000009,000033,RETURN,2018-05-08T03:20:17.645Z
+000753,000033,000017,RETURN,2018-05-08T03:20:17.645Z
+000754,000005,000701,RETURN,2018-05-08T03:20:17.645Z
+000755,000010,000733,RETURN,2018-05-08T03:20:17.646Z
+000756,000060,000438,RETURN,2018-05-08T03:20:17.646Z
+000757,000021,000237,RETURN,2018-05-08T03:20:17.646Z
+000758,000085,000772,RETURN,2018-05-08T03:20:17.646Z
+000759,000092,000833,RETURN,2018-05-08T03:20:17.646Z
+000760,000051,000351,RETURN,2018-05-08T03:20:17.646Z
+000761,000080,000086,RETURN,2018-05-08T03:20:17.647Z
+000762,000026,000626,RETURN,2018-05-08T03:20:17.647Z
+000763,000008,000855,RETURN,2018-05-08T03:20:17.647Z
+000764,000086,000658,RETURN,2018-05-08T03:20:17.647Z
+000765,000051,000074,RETURN,2018-05-08T03:20:17.647Z
+000766,000029,000624,RETURN,2018-05-08T03:20:17.647Z
+000767,000009,000352,RETURN,2018-05-08T03:20:17.648Z
+000768,000046,000600,RETURN,2018-05-08T03:20:17.648Z
+000769,000083,000068,RETURN,2018-05-08T03:20:17.649Z
+000770,000034,000420,RETURN,2018-05-08T03:20:17.649Z
+000771,000031,000696,RETURN,2018-05-08T03:20:17.649Z
+000772,000017,000797,RETURN,2018-05-08T03:20:17.649Z
+000773,000054,000803,RETURN,2018-05-08T03:20:17.649Z
+000774,000016,000761,RETURN,2018-05-08T03:20:17.649Z
+000775,000046,000273,RETURN,2018-05-08T03:20:17.650Z
+000776,000056,000679,RETURN,2018-05-08T03:20:17.650Z
+000777,000017,000408,RETURN,2018-05-08T03:20:17.650Z
+000778,000017,000671,RETURN,2018-05-08T03:20:17.651Z
+000779,000023,000119,RETURN,2018-05-08T03:20:17.651Z
+000780,000000,000099,RETURN,2018-05-08T03:20:17.651Z
+000781,000050,000482,RETURN,2018-05-08T03:20:17.652Z

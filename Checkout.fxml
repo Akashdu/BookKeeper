@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:id="rootPane" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="400.0" prefWidth="600.0" stylesheets="@css/main.css" xmlns="http://javafx.com/javafx/8.0.141"
+            fx:controller="library.ui.Checkout">
+    <AnchorPane fx:id="container" prefHeight="291.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0"
+                AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="45.0">
+        <GridPane prefHeight="120.0" prefWidth="600.0" AnchorPane.bottomAnchor="37.0" AnchorPane.leftAnchor="15.0"
+                  AnchorPane.rightAnchor="15.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            </rowConstraints>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="300.0">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Patron ID" GridPane.halignment="LEFT"
+                      GridPane.valignment="CENTER"/>
+                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1">
+                    <TextField fx:id="currentPatron" layoutX="5.0" layoutY="11.0" maxWidth="1.7976931348623157E308"
+                               onAction="#updateCurrentPatron" prefWidth="176.0" promptText="Patron ID"
+                               AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                               AnchorPane.topAnchor="11.0"/>
+                    <Text fill="#868686" layoutX="168.0" layoutY="31.0" onMouseClicked="#findPatron"
+                          strokeType="OUTSIDE" strokeWidth="0.0" text="" AnchorPane.bottomAnchor="16.5"
+                          AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="16.5">
+                        <font>
+                            <Font name="Material Icons" size="14.0"/>
+                        </font>
+                        <cursor>
+                            <Cursor fx:constant="HAND"/>
+                        </cursor>
+                    </Text>
+                </AnchorPane>
+                <GridPane.margin>
+                    <Insets right="7.5"/>
+                </GridPane.margin>
+            </GridPane>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="300.0" GridPane.rowIndex="2">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Book ID" GridPane.halignment="LEFT"
+                      GridPane.valignment="CENTER"/>
+                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1">
+                    <GridPane.margin>
+                        <Insets right="8.0"/>
+                    </GridPane.margin>
+                    <TextField fx:id="currentBook" layoutX="5.0" layoutY="11.0" maxWidth="1.7976931348623157E308"
+                               onAction="#updateCurrentBook" prefWidth="176.0" promptText="Book ID"
+                               AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                               AnchorPane.topAnchor="11.0"/>
+                    <Text fill="#868686" layoutX="168.0" layoutY="31.0" onMouseClicked="#findBook"
+                          strokeType="OUTSIDE" strokeWidth="0.0" text="" AnchorPane.bottomAnchor="16.5"
+                          AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="16.5">
+                        <font>
+                            <Font name="Material Icons" size="14.0"/>
+                        </font>
+                        <cursor>
+                            <Cursor fx:constant="HAND"/>
+                        </cursor>
+                    </Text>
+                </AnchorPane>
+            </GridPane>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="292.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                       prefWidth="100.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Book Title" textAlignment="RIGHT"
+                      GridPane.halignment="LEFT" GridPane.valignment="CENTER">
+                    <GridPane.margin>
+                        <Insets left="7.0"/>
+                    </GridPane.margin>
+                </Text>
+                <TextField fx:id="bookTitle" editable="false" focusTraversable="false" opacity="0.8"
+                           GridPane.columnIndex="1">
+                    <cursor>
+                        <Cursor fx:constant="DEFAULT"/>
+                    </cursor>
+                </TextField>
+            </GridPane>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="292.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                       prefWidth="100.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Book Author" textAlignment="RIGHT"
+                      GridPane.halignment="LEFT" GridPane.valignment="CENTER">
+                    <GridPane.margin>
+                        <Insets left="7.0"/>
+                    </GridPane.margin>
+                </Text>
+                <TextField fx:id="bookAuthor" editable="false" focusTraversable="false" opacity="0.8"
+                           GridPane.columnIndex="1">
+                    <cursor>
+                        <Cursor fx:constant="DEFAULT"/>
+                    </cursor>
+                </TextField>
+            </GridPane>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="292.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                       prefWidth="100.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Book Status" textAlignment="RIGHT"
+                      GridPane.halignment="LEFT" GridPane.valignment="CENTER">
+                    <GridPane.margin>
+                        <Insets left="7.0"/>
+                    </GridPane.margin>
+                </Text>
+                <ChoiceBox fx:id="bookStatus" disable="true" focusTraversable="false"
+                           maxWidth="1.7976931348623157E308" opacity="0.8" GridPane.columnIndex="1">
+                    <cursor>
+                        <Cursor fx:constant="DEFAULT"/>
+                    </cursor>
+                </ChoiceBox>
+            </GridPane>
+            <GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="80.0"
+                      prefWidth="292.0" GridPane.columnIndex="1">
+                <columnConstraints>
+                    <ColumnConstraints maxWidth="1.7976931348623157E308" minWidth="10.0" prefWidth="100.0"/>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                       prefWidth="100.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Patron Name" textAlignment="RIGHT"
+                      GridPane.halignment="LEFT" GridPane.valignment="CENTER">
+                    <GridPane.margin>
+                        <Insets left="7.0"/>
+                    </GridPane.margin>
+                </Text>
+                <TextField fx:id="patronName" editable="false" focusTraversable="false" opacity="0.79"
+                           GridPane.columnIndex="1">
+                    <cursor>
+                        <Cursor fx:constant="DEFAULT"/>
+                    </cursor>
+                </TextField>
+            </GridPane>
+        </GridPane>
+        <TableView fx:id="table" editable="true" maxHeight="1.7976931348623157E308" prefHeight="241.0"
+                   prefWidth="600.0" AnchorPane.bottomAnchor="160.0" AnchorPane.leftAnchor="0.0"
+                   AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY"/>
+            </columnResizePolicy>
+        </TableView>
+        <AnchorPane prefHeight="39.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                    AnchorPane.rightAnchor="0.0">
+            <Button fx:id="returnButton" layoutX="465.0" layoutY="7.0" mnemonicParsing="false"
+                    onAction="#returnBook" text="Return" AnchorPane.bottomAnchor="7.0"
+                    AnchorPane.rightAnchor="92.0"/>
+            <Button fx:id="checkoutButton" layoutX="545.0" layoutY="7.0" mnemonicParsing="false"
+                    onAction="#checkoutBook" text="Checkout" AnchorPane.bottomAnchor="7.0"
+                    AnchorPane.rightAnchor="15.0"/>
+            <GridPane fx:id="booksCheckedOutContainer" AnchorPane.bottomAnchor="7.0" AnchorPane.leftAnchor="14.0">
+                <columnConstraints>
+                    <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308"/>
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="131.0" minWidth="10.0" prefWidth="69.0"/>
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+                </rowConstraints>
+                <Text fx:id="booksCheckedOut" strokeType="OUTSIDE" strokeWidth="0.0" text="0/0"
+                      wrappingWidth="28.61328125" GridPane.columnIndex="1" GridPane.hgrow="ALWAYS">
+                    <GridPane.margin>
+                        <Insets left="6.0"/>
+                    </GridPane.margin>
+                </Text>
+                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Books Checked Out:" GridPane.hgrow="ALWAYS"/>
+            </GridPane>
+        </AnchorPane>
+    </AnchorPane>
+    <AnchorPane layoutY="-1.0" prefHeight="48.0" prefWidth="600.0"
+                style="-fx-background-color: #1564bf;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                AnchorPane.topAnchor="0.0">
+        <AnchorPane fx:id="header" prefHeight="39.0" prefWidth="600.0" AnchorPane.leftAnchor="0.0"
+                    AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="5.0">
+            <Text fill="WHITE" layoutX="14.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text=""
+                  AnchorPane.leftAnchor="14.0">
+                <font>
+                    <Font name="Material Icons" size="48.0"/>
+                </font>
+            </Text>
+            <Text fill="WHITE" layoutX="73.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0"
+                  text="Checkout &amp; Return" AnchorPane.leftAnchor="73.0" AnchorPane.topAnchor="-2.615234375">
+                <font>
+                    <Font name="Roboto Condensed Bold" size="33.0"/>
+                </font>
+            </Text>
+            <TextField fx:id="filter" layoutX="389.0" layoutY="2.0" promptText="Filter" AnchorPane.rightAnchor="92.0"
+                       AnchorPane.topAnchor="6.0"/>
+            <Text fill="#868686" layoutX="536.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text=""
+                  AnchorPane.rightAnchor="97.0" AnchorPane.topAnchor="12.0">
+                <font>
+                    <Font name="Material Icons" size="14.0"/>
+                </font>
+            </Text>
+            <Text fill="WHITE" layoutX="561.0" layoutY="32.0" onMousePressed="#goHome" strokeType="OUTSIDE"
+                  strokeWidth="0.0" styleClass="selectable" text="" AnchorPane.rightAnchor="8.0"
+                  AnchorPane.topAnchor="2.5">
+                <font>
+                    <Font name="Material Icons" size="31.0"/>
+                </font>
+            </Text>
+            <Label onMouseClicked="#onSpotlightHelp" styleClass="selectable" text="" textFill="WHITE"
+                   AnchorPane.rightAnchor="48.0" AnchorPane.topAnchor="2.5">
+                <font>
+                    <Font name="Material Icons" size="31.0"/>
+                </font>
+            </Label>
+        </AnchorPane>
+    </AnchorPane>
+</AnchorPane>

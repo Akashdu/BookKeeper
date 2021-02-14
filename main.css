@@ -1,0 +1,45 @@
+.main-selection:hover {
+    -fx-background-color: #bcdfff;
+    -fx-fill: #bcdfff;
+}
+
+.main-selection {
+    -fx-background-color: #d8ebff;
+    -fx-fill: #d8ebff;
+    -fx-cursor: hand;
+    -fx-border-color: #d0d0d0;
+    -fx-border-width: 1px;
+}
+
+/*
+  Used for highlighting invalid fields
+ */
+:invalid-input {
+    -fx-text-box-border: red;
+    -fx-focus-color: red;
+}
+
+/** Size the combo-box button. */
+.combo-box {
+    -fx-pref-width: 100;
+}
+
+/** Size the combo-box drop down list. */
+.combo-box-popup > .list-view {
+    -fx-pref-width: 100;
+}
+
+.selectable {
+    -fx-cursor: hand;
+}
+
+.selectable:hover {
+    -fx-fill: #c7c7c7;
+    -fx-text-fill: #c7c7c7;
+}
+
+.link {
+    -fx-text-fill: #0000ee;
+    -fx-fill: #0000ee;
+    -fx-cursor: hand;
+}

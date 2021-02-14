@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>BookKeeper README</title>
+    <link rel="stylesheet" href="source/resources/library/ui/help/css/main.css">
+    <link rel="stylesheet" href="source/resources/library/ui/help/css/normalize.css">
+    <link rel="stylesheet" href="source/resources/library/ui/help/css/raleway.css">
+    <link rel="stylesheet" href="source/resources/library/ui/help/css/skeleton.css">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="twelve columns">
+            <h3>BookKeeper - Library Management System</h3>
+            <p style="margin-top: -1%">BookKeeper was designed for the management of large scale libraries from the
+                ground up. </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Run Instructions</h4>
+            <ol>
+                <li>Copy all files to the computer.</li>
+                <li>Open the BookKeeper directory.</li>
+                <li>Run BookKeeper.exe</li>
+                <li>Load Sample Data from File Menu (File > Load Sample Data)</li>
+                <li>For more details view Documentation (Help > Documentation)</li>
+                <li>For details about the current view select the question mark at the top right of the view</li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Source Code</h4>
+            <h5>Location</h5>
+            <h6>You can view the source code in the following locations:</h6>
+            <ul>
+                <li>View the source code in the <a href="source">'source'</a> folder found in the root directory of the
+                    submission
+                </li>
+                <li>View the source code on <a
+                        href="https://github.com/srikavin/BookKeeper/tree/master/source">GitHub</a></li>
+            </ul>
+            <h5>Source Structure</h5>
+            <p>
+                The structure of the code reflects MVC organization:
+            </p>
+            <ul style="margin-left: 1vw">
+                <li>The view model is stored in <code>source\resources\library\ui</code></li>
+                <li>The controller layer is stored in <code>source\java\library\ui</code></li>
+                <li>The model layer is stored in <code>source\java\library\data</code></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Features</h4>
+            <ul>
+                <li>Quickly editable patron information and catalogue information</li>
+                <li>Allows filtering and sorting in any table view</li>
+                <li>Includes customization of patron types (students, teachers, etc.)</li>
+                <li>Generates reports in a matter of seconds</li>
+                <li>Reports are fully customizable</li>
+                <li>Allows librarians to override the system using their judgement</li>
+                <li>Cross Platform and can run on Windows, Linux, and MacOS</li>
+                <li>Includes fully-featured interactive documentation featuring images and guides</li>
+                <li>Includes an automatic data backup feature when saving</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Technical Documentation</h4>
+            <p>Documentation (javadocs) can be found inside the <a href="javadocs">javadocs folder</a></p><br>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Usage</h4>
+            <p>BookKeeper requires Java 8. If Java 8 is not installed, the program will use a
+                bundled JVM to execute.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Generating Executable</h4>
+            <pre><code>javapackager -deploy -native image -Bruntime="C:\Program Files\Java\jdk1.8.0_131\jre" -outdir building -outfile BookKeeper -srcfiles
+                application.jar -appclass library.ui.FXInitializer -name BookKeeper -title "BookKeeper - Library Management System"</code></pre>
+            <p style="margin-top: -1%">Used for creating a executable file with a bundled-JVM using the JDK-bundled
+                <code>javapackager</code> tool.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Screenshots</h4>
+            <h5>Main Window:</h5>
+            <img src="source/resources/library/ui/help/img/Home.png" class="u-max-full-width">
+        </div>
+        <div class="twelve columns">
+            <h5>Interactive Help:</h5>
+            <img src="source/resources/library/ui/help/img/interactive.png" class="u-max-full-width">
+        </div>
+        <div class="twelve columns">
+            <h5>Example Printed Report:</h5>
+            <img src="readme_assets/exampleReport.png" class="u-full-width">
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Planning</h4>
+            <h5>Design</h5>
+            <p>
+                BookKeeper uses a view, model, and controller system. The program uses JavaFX FXML files for its view
+                layer. The controller layer is implemented through layers. The view is completely isolated from the
+                models. The model layer is represented throught basic Java Objects. The model layer implements few
+                functionalaties, as those are in the controller layer. This organization allows for losely coupled code
+                and increases the efficiency of updating the program.
+                <br>
+
+            </p>
+            <h5>Database</h5>
+            <img src="readme_assets/databasePlan.png" class="u-max-full-width">
+            <h6><em><a href="https://www.vertabelo.com/">Vertabelo</a> was used to aid the design of the database</em>
+            </h6>
+            <p>The layout of the database is designed to encourage modularity, e.g. changes
+                in the patron table should be reflected in the book table automatically, without
+                knowledge of the specific patron entry.</p>
+
+            <h5>Layout</h5>
+            <img src="readme_assets/mockup/MainWindow.png" class="u-max-full-width"><h6><em>Balasmiq mockup was used to
+            design wireframes and aid in planning</em></h6>
+            <p>More planning images can be found <a href="readme_assets/mockup">here</a>. These planning documents were
+                modified when I discovered a more elegant solution during development.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <h4>Technologies Used</h4>
+            <ul>
+                <li><a href="http://gluonhq.com/products/scene-builder/">Gluon Scenebuilder</a> - used to quickly create
+                    JavaFX layouts
+                </li>
+                <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> - used to write Java code efficiently
+                    and quickly
+                </li>
+                <li>Java 8 - used to write efficient and robust code</li>
+                <li>JavaFX - used to create general UI layout</li>
+                <li><a href="https://maven.apache.org/">Apache Maven</a> - used to automate builds in an efficient
+                    manner
+                </li>
+                <li><a href="https://git-scm.com/">Git SCM</a> - used for version control</li>
+                <li><a href="http://getskeleton.com/">Skeleton</a> - used in HTML pages for styling</li>
+                <li><a href="https://www.adobe.com/products/illustrator.html">Adobe Illustrator</a> - used to customize
+                    and design application icons
+                </li>
+                <li>HTML &amp; CSS - used to create application help</li>
+                <li><a href="https://developers.google.com/books/">Google Books API</a> - used to generate the sample
+                    data
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        Written by Srikavin Ramkumar for the FBLA Coding and Programming Competition.
+    </footer>
+</div>
+</body>
+</html>

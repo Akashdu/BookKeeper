@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8.0.111"
+      fx:controller="library.ui.Help">
+    <SplitPane dividerPositions="0.26280623608017817" focusTraversable="true" VBox.vgrow="ALWAYS">
+        <AnchorPane maxWidth="350.0" prefHeight="598.0" prefWidth="244.0">
+            <ListView fx:id="helpList" cache="true" layoutX="-2.0" layoutY="41.0" minHeight="-Infinity"
+                      minWidth="-Infinity" prefHeight="557.0" prefWidth="233.0" AnchorPane.bottomAnchor="0.0"
+                      AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+        </AnchorPane>
+        <StackPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="150.0"
+                   prefWidth="200.0">
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                <WebView fx:id="helpWebView" maxHeight="-1.0" maxWidth="-1.0" prefHeight="589.0" prefWidth="446.0"
+                         AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                         AnchorPane.topAnchor="0.0"/>
+                <Label alignment="TOP_RIGHT" contentDisplay="TOP" layoutX="551.0" prefHeight="27.0"
+                       prefWidth="91.0" style="&#10;" text="Help" AnchorPane.rightAnchor="14.0"
+                       AnchorPane.topAnchor="0.0">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                    <textFill>
+                        <Color blue="0.624" green="0.624" red="0.624"/>
+                    </textFill>
+                </Label>
+            </AnchorPane>
+        </StackPane>
+    </SplitPane>
+</VBox>
